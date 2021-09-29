@@ -1,0 +1,1001 @@
+CEO,name,company,rank,sector,newcomer,ceo_founder,ceo_woman,birth_year,age
+Carl Douglas McMillon,Carl Douglas McMillon,Walmart,1,Retailing,no,no,no,1966,54
+Jeffrey P. Bezos,Jeffrey Bezos,Amazon,2,Retailing,no,yes,no,1964,56
+Darren W. Woods,Darren Woods,Exxon Mobil,3,Energy,no,no,no,1965,55
+Timothy D. Cook,Timothy Cook,Apple,4,Technology,no,no,no,1960,60
+Karen S. Lynch,Karen Lynch,CVS Health,5,Health Care,no,no,yes,1963,57
+Warren E. Buffett,Warren Buffett,Berkshire Hathaway,6,Financials,no,no,no,1930,90
+Andrew P. Witty,Andrew Witty,UnitedHealth Group,7,Health Care,no,no,no,1964,56
+Brian S. Tyler,Brian Tyler,McKesson,8,Health Care,no,no,no,1972,48
+John T. Stankey,John Stankey,AT&T,9,Telecommunications,no,no,no,1962,58
+Steven H. Collis,Steven Collis,AmerisourceBergen,10,Health Care,no,no,no,1961,59
+Sundar Pichai,Sundar Pichai,Alphabet,11,Technology,no,no,no,1972,48
+James D. Farley Jr.,James Farley Jr.,Ford Motor,12,Motor Vehicles & Parts,no,no,no,1962,58
+David Cordani,David Cordani,Cigna,13,Health Care,no,no,no,1966,54
+W. Craig Jelinek,W. Craig Jelinek,Costco Wholesale,14,Retailing,no,no,no,1952,68
+Michael K. Wirth,Michael Wirth,Chevron,15,Energy,no,no,no,1961,59
+Michael C. Kaufmann,Michael Kaufmann,Cardinal Health,16,Health Care,no,no,no,1949,71
+James Dimon,James Dimon,JPMorgan Chase,17,Financials,no,no,no,1956,64
+Mary T. Barra,Mary Barra,General Motors,18,Motor Vehicles & Parts,no,no,yes,1961,59
+Stefano Pessina,Stefano Pessina,Walgreens Boots Alliance,19,Food & Drug Stores,no,no,no,1941,79
+Hans E. Vestberg,Hans Vestberg,Verizon Communications,20,Telecommunications,no,no,no,1965,55
+Satya Nadella,Satya Nadella,Microsoft,21,Technology,no,no,no,1967,53
+Michael J. Hennigan,Michael Hennigan,Marathon Petroleum,22,Energy,no,no,no,1942,78
+W. Rodney McMullen,W. Rodney McMullen,Kroger,23,Food & Drug Stores,no,no,no,1961,59
+Hugh R. Frater,Hugh Frater,Fannie Mae,24,Financials,no,no,no,,
+Brian T. Moynihan,Brian Moynihan,Bank of America,25,Financials,no,no,no,1959,61
+Craig A. Menear,Craig Menear,Home Depot,26,Retailing,no,no,no,1958,62
+Greg C. Garland,Greg Garland,Phillips 66,27,Energy,no,no,no,,
+Brian L. Roberts,Brian Roberts,Comcast,28,Telecommunications,no,no,no,1959,61
+Gail K. Boudreaux,Gail Boudreaux,Anthem,29,Health Care,no,no,yes,1960,60
+Charles W. Scharf,Charles Scharf,Wells Fargo,30,Financials,no,no,no,1965,55
+Jane Fraser,Jane Fraser,Citigroup,31,Financials,no,no,yes,1967,53
+Joseph W. Gorder,Joseph Gorder,Valero Energy,32,Energy,no,no,no,,
+H. Lawrence Culp Jr.,H. Lawrence Culp Jr.,General Electric,33,Industrials,no,no,no,1963,57
+Michael S. Dell,Michael Dell,Dell Technologies,34,Technology,no,yes,no,1965,55
+Alex Gorsky,Alex Gorsky,Johnson & Johnson,35,Health Care,no,no,no,1960,60
+Michael L. Tipsord,Michael Tipsord,State Farm Insurance,36,Financials,no,no,no,1959,61
+Brian C. Cornell,Brian Cornell,Target,37,Retailing,no,no,no,1958,62
+Arvind Krishna,Arvind Krishna,IBM,38,Technology,no,no,no,1962,58
+Gregory J. Hayes,Gregory Hayes,Raytheon Technologies,39,Aerospace & Defense,no,no,no,,
+David L. Calhoun,David Calhoun,Boeing,40,Aerospace & Defense,no,no,no,1957,63
+Michael T. Hutchins,Michael Hutchins,Freddie Mac,41,Financials,no,no,no,,
+Michael F. Neidorff,Michael Neidorff,Centene,42,Health Care,no,no,no,,
+Carol B. Tomé,Carol Tomé,UPS,43,Transportation,no,no,yes,,
+Marvin R. Ellison,Marvin Ellison,Lowe&#8217;s,44,Retailing,no,no,no,,
+Patrick P. Gelsinger,Patrick Gelsinger,Intel,45,Technology,no,no,no,1961,59
+Mark Zuckerberg,Mark Zuckerberg,Facebook,46,Technology,no,yes,no,,
+Frederick W. Smith,Frederick Smith,FedEx,47,Transportation,no,yes,no,1944,76
+Michel A. Khalaf,Michel Khalaf,MetLife,48,Financials,no,no,no,,
+Robert A. Chapek,Robert Chapek,Walt Disney,49,Media,no,no,no,,
+David S. Taylor,David Taylor,Procter & Gamble,50,Household Products,no,no,no,1958,62
+Ramon L. Laguarta,Ramon Laguarta,PepsiCo,51,"Food, Beverages & Tobacco",no,no,no,,
+Bruce D. Broussard,Bruce Broussard,Humana,52,Health Care,no,no,no,,
+Charles F. Lowrey,Charles Lowrey,Prudential Financial (U.S.),53,Financials,no,no,no,,
+Juan R. Luciano,Juan Luciano,Archer Daniels Midland,54,"Food, Beverages & Tobacco",no,no,no,1962,58
+Vivek Sankaran,Vivek Sankaran,Albertsons,55,Food & Drug Stores,no,no,no,,
+Kevin P. Hourican,Kevin Hourican,Sysco,56,Wholesalers,no,no,no,,
+James D. Taiclet Jr.,James Taiclet Jr.,Lockheed Martin,57,Aerospace & Defense,no,no,no,,
+Enrique J. Lores,Enrique Lores,HP,58,Technology,no,no,no,1965,55
+Mackie McCrea,Mackie McCrea,Energy Transfer,59,Energy,no,no,no,,
+David M. Solomon,David Solomon,Goldman Sachs Group,60,Financials,no,no,no,1962,58
+James P. Gorman,James Gorman,Morgan Stanley,61,Financials,no,no,no,1958,62
+D. James Umpleby III,D. James Umpleby III,Caterpillar,62,Industrials,no,no,no,,
+Charles H. Robbins,Charles Robbins,Cisco Systems,63,Technology,no,no,no,1966,54
+Albert Bourla,Albert Bourla,Pfizer,64,Health Care,no,no,no,,
+Samuel N. Hazen,Samuel Hazen,HCA Healthcare,65,Health Care,no,no,no,,
+Peter S. Zaffino,Peter Zaffino,American International Group,66,Financials,no,no,no,1967,53
+Stephen J. Squeri,Stephen Squeri,American Express,67,Financials,no,no,no,1959,61
+Edward H. Bastian,Edward Bastian,Delta Air Lines,68,Transportation,no,no,no,1957,63
+Kenneth C. Frazier,Kenneth Frazier,Merck,69,Health Care,no,no,no,,
+W. Douglas Parker,W. Douglas Parker,American Airlines Group,70,Transportation,no,no,no,1962,58
+Thomas M. Rutledge,Thomas Rutledge,Charter Communications,71,Telecommunications,no,no,no,,
+Thomas J. Wilson,Thomas Wilson,Allstate,72,Financials,no,no,no,1958,62
+Theodore A. Mathas,Theodore Mathas,New York Life Insurance,73,Financials,no,no,no,,
+Kirt A. Walker,Kirt Walker,Nationwide,74,Financials,no,no,no,,
+Corie Barry,Corie Barry,Best Buy,75,Retailing,no,no,yes,,
+J. Scott Kirby,J. Scott Kirby,United Airlines Holdings,76,Transportation,no,no,no,1967,53
+David H. Long,David Long,Liberty Mutual Insurance Group,77,Financials,no,no,no,,
+James R. Fitterling,James Fitterling,Dow,78,Chemicals,yes,no,no,,
+Dean Banks,Dean Banks,Tyson Foods,79,"Food, Beverages & Tobacco",no,no,no,,
+Ernie L. Herrman,Ernie Herrman,TJX,80,Retailing,no,no,no,,
+Roger W. Ferguson Jr.,Roger Ferguson Jr.,TIAA,81,Financials,no,no,no,,
+Safra A. Catz,Safra Catz,Oracle,82,Technology,no,no,yes,1961,59
+Phebe N. Novakovic,Phebe Novakovic,General Dynamics,83,Aerospace & Defense,no,no,yes,,
+John C. May,John May,Deere,84,Industrials,no,no,no,1977,43
+John J. Donahoe II,John Donahoe II,Nike,85,Apparel,no,no,no,1960,60
+Susan Patricia Griffith,Susan Patricia Griffith,Progressive,86,Financials,no,no,yes,,
+Randall T. Jones Sr.,Randall Jones Sr.,Publix Super Markets,87,Food & Drug Stores,no,no,no,1990,30
+James R. Quincey,James Quincey,Coca-Cola,88,"Food, Beverages & Tobacco",no,no,no,1965,55
+Roger W. Crandall,Roger Crandall,Massachusetts Mutual Life,89,Financials,no,no,no,,
+Richard T. Hume,Richard Hume,Tech Data,90,Wholesalers,no,no,no,,
+Michael J. Kasbar,Michael Kasbar,World Fuel Services,91,Energy,no,no,no,,
+Darius E. Adamczyk,Darius Adamczyk,Honeywell International,92,Industrials,no,no,no,,
+Ryan M. Lance,Ryan Lance,ConocoPhillips,93,Energy,no,no,no,,
+Wayne Peacock,Wayne Peacock,USAA,94,Financials,no,no,no,,
+Christopher M. Crane,Christopher Crane,Exelon,95,Energy,no,no,no,,
+Kathy J. Warden,Kathy Warden,Northrop Grumman,96,Aerospace & Defense,no,no,yes,,
+Richard D. Fairbank,Richard Fairbank,Capital One Financial,97,Financials,no,yes,no,1950,70
+Wilfred C.W. Chiang,Wilfred Chiang,Plains GP Holdings,98,Energy,no,no,no,,
+Richard A. Gonzalez,Richard Gonzalez,AbbVie,99,Health Care,no,no,no,,
+Sean O'Connor,Sean O'Connor,StoneX Group,100,Financials,no,no,no,,
+A. James Teague ,A. James Teague ,Enterprise Products Partners,101,Energy,no,no,no,1998,22
+John E. Schlifske,John Schlifske,Northwestern Mutual,102,Financials,no,no,no,,
+Michael F. Roman,Michael Roman,3M,103,Chemicals,no,no,no,,
+Robert B. Ford,Robert Ford,Abbott Laboratories,104,Health Care,no,no,no,,
+Jay D. Debertin,Jay Debertin,CHS,105,"Food, Beverages & Tobacco",no,no,no,,
+Alan D. Schnitzer,Alan Schnitzer,Travelers Cos.,106,Financials,no,no,no,1965,55
+André Calantzopoulos,André Calantzopoulos,Philip Morris International,107,"Food, Beverages & Tobacco",no,no,no,1957,63
+Roy A. Azevedo,Roy Azevedo,Raytheon,108,Aerospace & Defense,no,no,no,,
+Antonio F. Neri,Antonio Neri,Hewlett Packard Enterprise,109,Technology,no,no,no,,
+Michael J. Long,Michael Long,Arrow Electronics,110,Wholesalers,no,no,no,1961,59
+Robert M. Bakish,Robert Bakish,ViacomCBS,111,Media,no,no,no,1963,57
+Todd J. Vasos,Todd Vasos,Dollar General,112,Retailing,no,no,no,,
+Andrew J. Cecere,Andrew Cecere,U.S. Bancorp,113,Financials,no,no,no,,
+Kevin R. Johnson,Kevin Johnson,Starbucks,114,"Hotels, Restaurants & Leisure",no,no,no,1960,60
+Giovanni Caforio,Giovanni Caforio,Bristol-Myers Squibb,115,Health Care,no,no,no,,
+Pietro Satriano,Pietro Satriano,US Foods Holding,116,Wholesalers,no,no,no,,
+Dirk Van de Put,Dirk Van de Put,Mondelez International,117,"Food, Beverages & Tobacco",no,no,no,,
+R. Preston Feight,R. Preston Feight,Paccar,118,Industrials,no,no,no,,
+Marc N. Casper,Marc Casper,Thermo Fisher Scientific,119,Technology,no,no,no,,
+Jeffrey Gennette,Jeffrey Gennette,Macy&#8217;s,120,Retailing,no,no,no,,
+Mark T. Mondello,Mark Mondello,Jabil,121,Technology,no,no,no,,
+Miguel Patricio,Miguel Patricio,Kraft Heinz,122,"Food, Beverages & Tobacco",no,no,no,1967,53
+Lynn J. Good,Lynn Good,Duke Energy,123,Energy,no,no,yes,1981,39
+Elon Musk,Elon Musk,Tesla,124,Motor Vehicles & Parts,no,yes,no,1971,49
+Thomas J. Nimbley,Thomas Nimbley,PBF Energy,125,Energy,no,no,no,,
+Steven M. Mollenkopf,Steven Mollenkopf,Qualcomm,126,Technology,no,no,no,,
+H. Michael Krimbill,H. Michael Krimbill,NGL Energy Partners,127,Energy,no,no,no,,
+Robert E. Sulentic,Robert Sulentic,CBRE Group,128,Financials,no,no,no,,
+Lorenzo Simonelli,Lorenzo Simonelli,Baker Hughes,129,Energy,yes,no,no,,
+Dennis Polk,Dennis Polk,Synnex,130,Wholesalers,no,no,no,,
+Michael A. Witynski,Michael Witynski,Dollar Tree,131,Retailing,no,no,no,,
+N. Thomas Linebarger,N. Thomas Linebarger,Cummins,132,Industrials,no,no,no,,
+Steven L. Spinner,Steven Spinner,United Natural Foods,133,Wholesalers,no,no,no,,
+Sanjay Mehrotra,Sanjay Mehrotra,Micron Technology,134,Technology,no,no,no,,
+Robert A. Bradway,Robert Bradway,Amgen,135,Health Care,no,no,no,,
+Roger S. Penske,Roger Penske,Penske Automotive Group,136,Retailing,no,no,no,1937,83
+Alfred F. Kelly Jr.,Alfred Kelly Jr.,Visa,137,Business Services,no,no,no,1958,62
+Hock E. Tan,Hock Tan,Broadcom,138,Technology,no,no,no,,
+Leon J. Topalian,Leon Topalian,Nucor,139,Materials,no,no,no,,
+Daniel P. O'Day,Daniel O'Day,Gilead Sciences,140,Health Care,no,no,no,1957,63
+Gary C. Kelly,Gary Kelly,Southwest Airlines,141,Transportation,no,no,no,1955,65
+Jeffrey A. Miller,Jeffrey Miller,Halliburton,142,Energy,no,no,no,1970,50
+Jeffrey K. Storey,Jeffrey Storey,Lumen Technologies,143,Telecommunications,no,no,no,1960,60
+Mark S. Sutton,Mark Sutton,International Paper,144,Materials,no,no,no,,
+David A. Ricks,David Ricks,Eli Lilly,145,Health Care,no,no,no,1955,65
+Daniel P. Amos,Daniel Amos,Aflac,146,Financials,no,no,no,,
+Richard Beckwitt,Richard Beckwitt,Lennar,147,Engineering & Construction,no,no,no,,
+Vicki A. Hollub,Vicki Hollub,Occidental Petroleum,148,Energy,no,no,yes,1960,60
+Lance M. Fritz,Lance Fritz,Union Pacific,149,Transportation,no,no,no,,
+Heyward Donigan,Heyward Donigan,Rite Aid,150,Food & Drug Stores,no,no,yes,,
+William S. Demchak,William Demchak,PNC Financial Services Group,151,Financials,no,no,no,1962,58
+Edward D. Breen,Edward Breen,DuPont,152,Chemicals,no,no,no,1956,64
+Thomas A. Fanning,Thomas Fanning,Southern Company,153,Energy,no,no,no,,
+Michael J. Jackson,Michael Jackson,AutoNation,154,Retailing,no,no,no,,
+Michael J. Salvino,Michael Salvino,DXC Technology,155,Technology,no,no,no,,
+Christopher J. Kempczinski,Christopher Kempczinski,McDonald&#8217;s,156,"Hotels, Restaurants & Leisure",no,no,no,1968,52
+Anthony Capuano,Anthony Capuano,Marriott International,157,"Hotels, Restaurants & Leisure",no,no,no,1952,68
+Jonas Prising,Jonas Prising,ManpowerGroup,158,Business Services,no,no,no,,
+Thomas P. Gibbons,Thomas Gibbons,Bank of New York Mellon,159,Financials,no,no,no,,
+Christopher J. Swift,Christopher Swift,Hartford Financial Services Group,160,Financials,no,no,no,,
+Rainer M. Blair,Rainer Blair,Danaher,161,Health Care,no,no,no,,
+Marc R. Bitzer,Marc Bitzer,Whirlpool,162,Industrials,no,no,no,1965,55
+W. Troy Rudd,W. Troy Rudd,AECOM,163,Engineering & Construction,no,no,no,,
+Reed Hastings,Reed Hastings,Netflix,164,Media,no,yes,no,1960,60
+Michelle D. Gass,Michelle Gass,Kohl&#8217;s,165,Retailing,no,no,yes,,
+Raymond E. Scott,Raymond Scott,Lear,166,Motor Vehicles & Parts,no,no,no,1994,26
+William F. Gifford Jr.,William Gifford Jr.,Altria Group,167,"Food, Beverages & Tobacco",no,no,no,1946,74
+George L. Holm,George Holm,Performance Food Group,168,Wholesalers,no,no,no,,
+Philip R. Gallagher,Philip Gallagher,Avnet,169,Wholesalers,no,no,no,,
+Margaret M. Keane,Margaret Keane,Synchrony Financial,170,Financials,no,no,yes,1959,61
+Paul D. Donahue,Paul Donahue,Genuine Parts,171,Wholesalers,no,no,no,1966,54
+James L. Robo,James Robo,NextEra Energy,172,Energy,no,no,no,,
+William D. Nash,William Nash,CarMax,173,Retailing,no,no,no,1942,78
+Ronald A. Rittenmeyer,Ronald Rittenmeyer,Tenet Healthcare,174,Health Care,no,no,no,,
+Michael D. Hsu,Michael Hsu,Kimberly-Clark,175,Household Products,no,no,no,,
+Lal L. Karsanbhai,Lal Karsanbhai,Emerson Electric,176,Industrials,no,no,no,,
+David B. Sewell,David Sewell,WestRock,177,Materials,no,no,no,1977,43
+Christine A. Leahy,Christine Leahy,CDW,178,Technology,no,no,yes,1968,52
+Christian Ulbrich,Christian Ulbrich,Jones Lang LaSalle (JLL),179,Financials,no,no,no,,
+John G. Morikis,John Morikis,Sherwin-Williams,180,Chemicals,no,no,no,,
+David E. Constable,David Constable,Fluor,181,Engineering & Construction,no,no,no,,
+Daniel H. Schulman,Daniel Schulman,PayPal Holdings,182,Business Services,no,no,no,1958,62
+David V. Auld,David Auld,D.R. Horton,183,Engineering & Construction,no,no,no,,
+Michael C. Jennings,Michael Jennings,HollyFrontier,184,Energy,no,no,no,1988,32
+Brian J. Kesseler,Brian Kesseler,Tenneco,185,Motor Vehicles & Parts,no,no,no,,
+William R. Thomas,William Thomas,EOG Resources,186,Energy,no,no,no,,
+Thomas E. Polen,Thomas Polen,BD,187,Health Care,no,no,no,,
+Dennis R. Glass,Dennis Glass,Lincoln National,188,Financials,no,no,no,1949,71
+Patricia K. Poppe,Patricia Poppe,PG&E,189,Energy,no,no,yes,1969,51
+Marc R. Benioff,Marc Benioff,Salesforce,190,Technology,no,yes,no,1964,56
+Michael Miebach,Michael Miebach,Mastercard,191,Business Services,no,no,no,,
+Jeffrey L. Harmening,Jeffrey Harmening,General Mills,192,"Food, Beverages & Tobacco",no,no,no,1989,31
+Joseph M. Zubretsky,Joseph Zubretsky,Molina Healthcare,193,Health Care,no,no,no,,
+Brian Humphries,Brian Humphries,Cognizant Technology Solutions,194,Technology,no,no,no,,
+Daniel S. Glaser,Daniel Glaser,Marsh & McLennan,195,Financials,no,no,no,1968,52
+Bradley S. Jacobs,Bradley Jacobs,XPO Logistics,196,Transportation,no,no,no,,
+Robert M. Blue,Robert Blue,Dominion Energy,197,Energy,no,no,no,,
+David V. Goeckeler,David Goeckeler,Western Digital,198,Technology,no,no,no,,
+Sonia Syngal,Sonia Syngal,Gap,199,Retailing,no,no,yes,,
+John J. Zillmer,John Zillmer,Aramark,200,Business Services,no,no,no,,
+Daniel J. Houston,Daniel Houston,Principal Financial,201,Financials,no,no,no,1989,31
+Barbara Rentler,Barbara Rentler,Ross Stores,202,Retailing,no,no,yes,1948,72
+Noel R. Wallace,Noel Wallace,Colgate-Palmolive,203,Household Products,no,no,no,,
+Nicholas K. Akins,Nicholas Akins,American Electric Power,204,Energy,no,no,no,,
+Erik B. Nordstrom,Erik Nordstrom,Nordstrom,205,Retailing,no,no,no,,
+Steven J. Demetriou,Steven Demetriou,Jacobs Engineering Group,206,Engineering & Construction,no,no,no,1973,47
+James C. Fish Jr.,James Fish Jr.,Waste Management,207,Business Services,no,no,no,,
+Robert C. Biesterfeld Jr.,Robert Biesterfeld Jr.,C.H. Robinson Worldwide,208,Transportation,no,no,no,,
+Michael H. McGarry,Michael McGarry,PPG Industries,209,Chemicals,no,no,no,1965,55
+Glenn D. Fogel,Glenn Fogel,Booking Holdings,210,Technology,no,no,no,,
+John D. Wren,John Wren,Omnicom Group,211,Business Services,no,no,no,,
+James S. Tisch,James Tisch,Loews,212,Financials,no,no,no,1953,67
+Christophe Beck,Christophe Beck,Ecolab,213,Chemicals,no,no,no,1972,48
+Kevin A. Lobo,Kevin Lobo,Stryker,214,Health Care,no,no,no,,
+Fabrizio Freda,Fabrizio Freda,Estée Lauder,215,Household Products,no,no,no,,
+Richard J. Kramer,Richard Kramer,Goodyear Tire & Rubber,216,Motor Vehicles & Parts,no,no,no,1963,57
+Kelly S. King,Kelly King,Truist Financial,217,Financials,no,no,no,,
+Gary E. Dickerson,Gary Dickerson,Applied Materials,218,Technology,no,no,no,1956,64
+Laurence D. Fink,Laurence Fink,BlackRock,219,Financials,no,no,no,1952,68
+James M. Loree,James Loree,Stanley Black & Decker,220,Household Products,no,no,no,,
+Richard C. Adkerson,Richard Adkerson,Freeport-McMoRan,221,Energy,no,no,no,,
+Richard K. Templeton,Richard Templeton,Texas Instruments,222,Technology,no,no,no,,
+Michel Vounatsos,Michel Vounatsos,Biogen,223,Health Care,no,no,no,,
+Thomas L. Williams,Thomas Williams,Parker-Hannifin,224,Industrials,no,no,no,,
+Anna Manning,Anna Manning,Reinsurance Group of America,225,Financials,no,no,yes,,
+John C. Plant,John Plant,Howmet Aerospace,226,Aerospace & Defense,no,no,no,,
+Carlos A. Rodriguez,Carlos Rodriguez,Automatic Data Processing,227,Business Services,no,no,no,1965,55
+Dara Khosrowshahi,Dara Khosrowshahi,Uber Technologies,228,Technology,yes,no,no,1969,51
+E. Scott Santi,E. Scott Santi,Illinois Tool Works,229,Industrials,no,no,no,,
+Javier J. Rodriguez,Javier Rodriguez,DaVita,230,Health Care,no,no,no,,
+Roger C. Hochschild,Roger Hochschild,Discover Financial Services,231,Financials,no,no,no,,
+Beth E. Ford,Beth Ford,Land O&#8217;Lakes,232,"Food, Beverages & Tobacco",no,no,yes,,
+Steven E. Rendle,Steven Rendle,VF,233,Apparel,no,no,no,,
+James C. Collins Jr.,James Collins Jr.,Corteva,234,"Food, Beverages & Tobacco",yes,no,no,,
+Sheldon G. Adelson,Sheldon Adelson,Las Vegas Sands,235,"Hotels, Restaurants & Leisure",no,yes,no,,
+Scott C. Donnelly,Scott Donnelly,Textron,236,Aerospace & Defense,no,no,no,1961,59
+Steven A. Cahillane,Steven Cahillane,Kellogg,237,"Food, Beverages & Tobacco",no,no,no,,
+Andrew J. McMahon,Andrew McMahon,Guardian Life Ins. Co. of America,238,Financials,no,no,no,,
+Michael A. George,Michael George,Qurate Retail,239,Retailing,no,no,no,,
+Scott E. McPherson,Scott McPherson,Core-Mark Holding,240,Wholesalers,no,no,no,,
+Tim L. Hingtgen,Tim Hingtgen,Community Health Systems,241,Health Care,no,no,no,,
+Steven J. Kean,Steven Kean,Kinder Morgan,242,Energy,no,no,no,,
+Lee Delaney,Lee Delaney,BJ's Wholesale Club,243,Retailing,no,no,no,,
+Ronald P. O&#039;Hanley,Ronald O&#039;Hanley,State Street,244,Financials,no,no,no,,
+James M. Cracchiolo,James Cracchiolo,Ameriprise Financial,245,Financials,no,no,no,,
+Eric Slifka,Eric Slifka,Global Partners,246,Wholesalers,no,no,no,,
+David B. Burritt,David Burritt,United States Steel,247,Materials,no,no,no,1955,65
+Andrew Menslow,Andrew Menslow,L Brands,248,Retailing,no,no,no,,
+William J. Hornbuckle IV,William Hornbuckle IV,MGM Resorts International,249,"Hotels, Restaurants & Leisure",no,no,no,,
+William M. Brown,William Brown,L3Harris Technologies,250,Aerospace & Defense,no,no,no,,
+W. Erik Carlson,W. Erik Carlson,DISH Network,251,Telecommunications,no,no,no,,
+Bryan B. DeBoer,Bryan DeBoer,Lithia Motors,252,Retailing,no,no,no,,
+Gerardo Norcia,Gerardo Norcia,DTE Energy,253,Energy,no,no,no,,
+Jack C. Salzwedel,Jack Salzwedel,American Family Insurance Group,254,Financials,no,no,no,,
+Jeffrey J. Dailey,Jeffrey Dailey,Farmers Insurance Exchange,255,Financials,no,no,no,,
+Timothy Cawley,Timothy Cawley,Consolidated Edison,256,Energy,no,no,no,,
+Dominick P. Zarcone,Dominick Zarcone,LKQ,257,Wholesalers,no,no,no,,
+Jeffrey W. Martin,Jeffrey Martin,Sempra Energy,258,Energy,no,no,no,,
+Pedro J. Pizarro,Pedro Pizarro,Edison International,259,Energy,no,no,no,,
+David J. Lesar,David Lesar,CenterPoint Energy,260,Energy,no,no,no,1953,67
+Earl C. Austin Jr.,Earl Austin Jr.,Quanta Services,261,Engineering & Construction,no,no,no,,
+R. Andrew Clyde,R. Andrew Clyde,Murphy USA,262,Retailing,no,no,no,1963,57
+Peter M. Kern,Peter Kern,Expedia Group,263,Retailing,no,no,no,,
+Earl J. Hesterberg,Earl Hesterberg,Group 1 Automotive,264,Retailing,no,no,no,1953,67
+Mark J. Tritton,Mark Tritton,Bed Bath & Beyond,265,Retailing,no,no,no,,
+Richard P. McKenney,Richard McKenney,Unum Group,266,Financials,no,no,no,1972,48
+James M. Foote,James Foote,CSX,267,Transportation,no,no,no,,
+William C. Rhodes III,William Rhodes III,AutoZone,268,Retailing,no,no,no,,
+James T. Morris,James Morris,Pacific Life,269,Financials,no,no,no,,
+Curtis A. Morgan,Curtis Morgan,Vistra Energy,270,Energy,no,no,no,,
+Walter W. Bettinger II,Walter Bettinger II,Charles Schwab,271,Financials,no,no,no,,
+Timothy J. Donahue,Timothy Donahue,Crown Holdings,272,Materials,no,no,no,,
+Jeffrey J. Brown,Jeffrey Brown,Ally Financial,273,Financials,no,no,no,1968,52
+Adam H. Schechter,Adam Schechter,Laboratory Corp. of America (Labcorp),274,Health Care,no,no,no,,
+Michael Rapino,Michael Rapino,Live Nation Entertainment,275,Media,no,no,no,,
+Benjamin G.S. Fowke III,Benjamin Fowke III,Xcel Energy,276,Energy,no,no,no,,
+Wendell P. Weeks,Wendell Weeks,Corning,277,Industrials,no,no,no,,
+D.G. Macpherson,D.G. Macpherson,W.W. Grainger,278,Wholesalers,no,no,no,,
+John A. Hayes,John Hayes,Ball,279,Materials,no,no,no,1993,27
+Lachlan K. Murdoch,Lachlan Murdoch,Fox,280,Media,yes,no,no,1971,49
+Marc. D Miller,Marc. Miller,Universal Health Services,281,Health Care,no,no,no,1973,47
+,,Baxter International,282,Health Care,no,no,no,,
+James A. Squires,James Squires,Norfolk Southern,283,Transportation,no,no,no,,
+Persio V. Lisboa,Persio Lisboa,Navistar International,284,Industrials,no,no,no,,
+Shantanu Narayen,Shantanu Narayen,Adobe,285,Technology,no,no,no,1963,57
+Stanley Shashoua,Stanley Shashoua,J.C. Penney,286,Retailing,no,no,no,,
+David M. Zaslav,David Zaslav,Discovery,287,Media,no,no,no,1960,60
+Robert J. Gamgort,Robert Gamgort,Keurig Dr Pepper,288,"Food, Beverages & Tobacco",no,no,no,,
+Roger A. Krone,Roger Krone,Leidos Holdings,289,Technology,no,no,no,1956,64
+Ari Bousbib,Ari Bousbib,IQVIA Holdings,290,Health Care,no,no,no,,
+James D. Hoffman,James Hoffman,Reliance Steel & Aluminum,291,Materials,no,no,no,,
+Jensen Huang,Jensen Huang,Nvidia,292,Technology,no,yes,no,1963,57
+Leo P. Denault,Leo Denault,Entergy,293,Energy,no,no,no,,
+Steven E. Strah,Steven Strah,FirstEnergy,294,Energy,no,no,no,,
+Jamie Iannone,Jamie Iannone,eBay,295,Technology,no,no,no,,
+Michael F. Mahoney,Michael Mahoney,Boston Scientific,296,Health Care,no,no,no,,
+Gerry P. Smith,Gerry Smith,ODP,297,Retailing,no,no,no,1939,81
+Gavin D.K. Hattersley,Gavin Hattersley,Molson Coors Beverage,298,"Food, Beverages & Tobacco",no,no,no,,
+Mark D. Millett,Mark Millett,Steel Dynamics,299,Materials,no,yes,no,,
+James T. Blackledge,James Blackledge,Mutual of Omaha Insurance,300,Financials,no,no,no,,
+David Bruton Smith,David Bruton Smith,Sonic Automotive,301,Retailing,no,no,no,,
+Roy C. Harvey,Roy Harvey,Alcoa,302,Materials,no,no,no,1905,115
+Gary A. Norcross,Gary Norcross,Fidelity National Information Services,303,Business Services,no,no,no,,
+Stanley M. Bergman,Stanley Bergman,Henry Schein,304,Health Care,no,no,no,,
+Donald W. Slager,Donald Slager,Republic Services,305,Business Services,no,no,no,,
+Gregory B. Maffei,Gregory Maffei,Liberty Media,306,Media,no,no,no,1960,60
+Rick Lanoha,Rick Lanoha,Peter Kiewit Sons&#8217;,307,Engineering & Construction,no,no,no,,
+Philippe Krakowsky,Philippe Krakowsky,Interpublic Group,308,Business Services,no,no,no,,
+Ryan R. Marshall,Ryan Marshall,PulteGroup,309,Engineering & Construction,no,no,no,,
+,,AES,310,Energy,no,no,no,,
+Frank J. Bisignano,Frank Bisignano,Fiserv,311,Business Services,no,no,no,1959,61
+Frederic B. Lissalde,Frederic Lissalde,BorgWarner,312,Motor Vehicles & Parts,no,no,no,1967,53
+Terry K. Spencer,Terry Spencer,Oneok,313,Energy,no,no,no,,
+Gregory D. Johnson,Gregory Johnson,O&#8217;Reilly Automotive,314,Retailing,no,no,no,,
+Alan B. Colberg,Alan Colberg,Assurant,315,Financials,no,no,no,,
+Ravichandra K. Saligram,Ravichandra Saligram,Newell Brands,316,Household Products,no,no,no,,
+Ralph Izzo,Ralph Izzo,Public Service Enterprise Group,317,Energy,no,no,no,1978,42
+Robert J. Thomson,Robert Thomson,News Corp.,318,Media,no,no,no,1961,59
+John B. Hill III,John Hill III,Calpine,319,Energy,no,no,no,,
+Jeffrey S. Tagsold,Jeffrey Tagsold,Auto-Owners Insurance,320,Financials,no,no,no,,
+Jeffrey S. Lorberbaum,Jeffrey Lorberbaum,Mohawk Industries,321,Household Products,no,no,no,1954,66
+Stefan Larsson,Stefan Larsson,PVH,322,Apparel,no,no,no,1974,46
+Mark A. Clouse,Mark Clouse,Campbell Soup,322,"Food, Beverages & Tobacco",no,no,no,1968,52
+Mauricio Gutierrez,Mauricio Gutierrez,NRG Energy,324,Energy,no,no,no,,
+Greg D. Carmichael,Greg Carmichael,Fifth Third Bancorp,325,Financials,no,no,no,,
+Paul E. Stone,Paul Stone,Hertz Global Holdings,326,Retailing,no,no,no,1969,51
+Dexter G. Goei,Dexter Goei,Altice USA,327,Telecommunications,no,no,no,1971,49
+Thomas R. Palmer,Thomas Palmer,Newmont,328,Energy,no,no,no,,
+Jack A. Fusco,Jack Fusco,Cheniere Energy,329,Energy,no,no,no,1930,90
+Thomas R. Greco,Thomas Greco,Advance Auto Parts,330,Retailing,no,no,no,,
+Timothy M. Archer,Timothy Archer,Lam Research,331,Technology,no,no,no,,
+Edward A. Pesicka,Edward Pesicka,Owens & Minor,332,Health Care,no,no,no,,
+Mark Pearson,Mark Pearson,Equitable Holdings,333,Financials,yes,no,no,,
+Sean M. Connolly,Sean Connolly,Conagra Brands,334,"Food, Beverages & Tobacco",no,no,no,1942,78
+Thomas S. Gayner,Thomas Gayner,Markel,335,Financials,no,no,no,,
+Penny Pennington,Penny Pennington,Jones Financial (Edward Jones),336,Financials,no,no,yes,1963,57
+James P. Snee,James Snee,Hormel Foods,337,"Food, Beverages & Tobacco",no,no,no,,
+Christopher J. Nassetta,Christopher Nassetta,Hilton Worldwide Holdings,338,"Hotels, Restaurants & Leisure",no,no,no,,
+David C. Jukes,David Jukes,Univar Solutions,339,Wholesalers,no,no,no,,
+Matthew Flannery,Matthew Flannery,United Rentals,340,Business Services,no,no,no,,
+Scott D. Sheffield,Scott Sheffield,Pioneer Natural Resources,341,Energy,no,no,no,,
+Ezra Uzi Yemin,Ezra Uzi Yemin,Delek US Holdings,342,Energy,no,no,no,1968,52
+Mark J. Costa,Mark Costa,Eastman Chemical,343,Chemicals,no,no,no,,
+Anthony J. Guzzi,Anthony Guzzi,EMCOR Group,344,Engineering & Construction,no,no,no,,
+Joseph A. Ferraro,Joseph Ferraro,Avis Budget Group,345,Retailing,no,no,no,,
+John N. Roberts III,John Roberts III,J.B. Hunt Transport Services,346,Transportation,no,no,no,1955,65
+John G. Visentin,John Visentin,Xerox Holdings,347,Technology,no,no,no,,
+Niraj S. Shah,Niraj Shah,Wayfair,348,Retailing,no,yes,no,,
+Henry R. Kravis,Henry Kravis,KKR,349,Financials,yes,no,no,1944,76
+Eric P. Hansotia,Eric Hansotia,AGCO,350,Industrials,no,no,no,,
+Weston M. Hicks,Weston Hicks,Alleghany,351,Financials,no,no,no,1957,63
+Keith Cozza,Keith Cozza,Icahn Enterprises,352,Financials,no,no,no,,
+Rodney O. Martin Jr.,Rodney Martin Jr.,Voya Financial,353,Financials,no,no,no,1952,68
+Robert E. Sanchez,Robert Sanchez,Ryder System,354,Transportation,no,no,no,1997,23
+Seifi Ghasemi,Seifi Ghasemi,Air Products & Chemicals,355,Chemicals,no,no,no,,
+James C. O'Rourke,James O'Rourke,Mosaic,356,Chemicals,no,no,no,1972,48
+C. Michael Petters,C. Michael Petters,Huntington Ingalls Industries,357,Aerospace & Defense,no,no,no,1959,61
+Thomas E. Salmon,Thomas Salmon,Berry Global Group,358,Materials,no,no,no,,
+William A. Galvin,William Galvin,Anixter International,359,Wholesalers,no,no,no,,
+Bradley D. Tilden,Bradley Tilden,Alaska Air Group,360,Transportation,no,no,no,1960,60
+Joey Wat,Joey Wat,Yum China Holdings,361,"Hotels, Restaurants & Leisure",no,no,yes,1971,49
+Lauren R. Hobart,Lauren Hobart,Dick&#8217;s Sporting Goods,362,Retailing,no,no,yes,1970,50
+Thomas R. Reeg,Thomas Reeg,Caesars Holdings,363,"Hotels, Restaurants & Leisure",no,no,no,,
+Thomas J. McInerney,Thomas McInerney,Genworth Financial,364,Financials,no,no,no,1937,83
+Matthew Meloy,Matthew Meloy,Targa Resources,365,Energy,no,no,no,,
+Sue Y. Nabi,Sue Nabi,Coty,366,Household Products,no,no,yes,,
+James K. Kamsickas,James Kamsickas,Dana,367,Motor Vehicles & Parts,no,no,no,1966,54
+Teresa J. Rasmussen,Teresa Rasmussen,Thrivent Financial for Lutherans,368,Financials,no,no,yes,,
+Mikael Bratt,Mikael Bratt,Autoliv,369,Motor Vehicles & Parts,no,no,no,,
+Tony B. Sarsam,Tony Sarsam,SpartanNash,370,Wholesalers,no,no,no,,
+James J. Judge,James Judge,Eversource Energy,371,Energy,no,no,no,1974,46
+Eugene I. Lee Jr.,Eugene Lee Jr.,Darden Restaurants,372,"Hotels, Restaurants & Leisure",no,no,no,,
+Robert D. Lawler,Robert Lawler,Chesapeake Energy,373,Energy,no,no,no,,
+Clay C. Williams,Clay Williams,NOV,374,Energy,no,no,no,1962,58
+Raymond R. Quirk,Raymond Quirk,Fidelity National Financial,375,Financials,no,no,no,,
+Timothy G. NeCastro,Timothy NeCastro,Erie Insurance Group,376,Financials,no,no,no,,
+Wilson R. Jones,Wilson Jones,Oshkosh,377,Industrials,no,no,no,1997,23
+Darren M. Rebelez,Darren Rebelez,Casey&#8217;s General Stores,378,Retailing,no,no,no,,
+John J. Engel,John Engel,WESCO International,379,Wholesalers,no,no,no,,
+Harry A. Lawton III,Harry Lawton III,Tractor Supply,380,Retailing,no,no,no,,
+Charles L. Treadway,Charles Treadway,CommScope Holding,381,Technology,yes,no,no,,
+Peter R. Huntsman,Peter Huntsman,Huntsman,382,Chemicals,no,no,no,,
+Carl H. Lindner lll,Carl Lindner lll,American Financial Group,383,Financials,no,no,no,,
+Keith J. Allman,Keith Allman,Masco,384,Household Products,no,no,no,,
+Jure Sola,Jure Sola,Sanmina,385,Technology,no,no,no,,
+R. Adam Norwitt,R. Adam Norwitt,Amphenol,386,Technology,no,no,no,,
+Alan S. Armstrong,Alan Armstrong,Williams,387,Energy,no,no,no,1946,74
+Rafael O. Santana,Rafael Santana,Westinghouse Air Brake,388,Industrials,yes,no,no,1991,29
+Jeffrey S. Musser,Jeffrey Musser,Expeditors Intl. of Washington,389,Transportation,no,no,no,,
+Patrick E. Bowe,Patrick Bowe,Andersons,390,"Food, Beverages & Tobacco",yes,no,no,,
+Albert Yuan Chao,Albert Yuan Chao,Westlake Chemical,391,Chemicals,no,no,no,1947,73
+William A. Newlands,William Newlands,Constellation Brands,392,"Food, Beverages & Tobacco",no,no,no,,
+Nicholas Jeffery,Nicholas Jeffery,Frontier Communications,393,Telecommunications,no,no,no,,
+Robin Hayes,Robin Hayes,JetBlue Airways,394,Transportation,no,no,no,1945,75
+Bruce W. Van Saun,Bruce Van Saun,Citizens Financial Group,395,Financials,no,no,no,,
+Paul C. Reilly,Paul Reilly,Raymond James Financial,396,Financials,no,no,no,1965,55
+Richard A. Johnson,Richard Johnson,Foot Locker,397,Retailing,no,no,no,,
+Michele G. Buck,Michele Buck,Hershey,398,"Food, Beverages & Tobacco",no,no,yes,,
+Bryan C. Hanson,Bryan Hanson,Zimmer Biomet Holdings,399,Health Care,no,no,no,,
+Steven J. Johnston,Steven Johnston,Cincinnati Financial,400,Financials,yes,no,no,,
+John F. Barrett,John Barrett,Western & Southern Financial Group,401,Financials,no,no,no,1949,71
+W. Robert Berkley Jr.,W. Robert Berkley Jr.,W.R. Berkley,402,Financials,no,no,no,,
+Gregory Q. Brown,Gregory Brown,Motorola Solutions,403,Technology,no,no,no,1960,60
+Robert W. Martin,Robert Martin,Thor Industries,404,Motor Vehicles & Parts,no,no,no,,
+Leonard Schleifer,Leonard Schleifer,Regeneron Pharmaceuticals,405,Health Care,no,yes,no,1953,67
+Thomas C. Gentile III,Thomas Gentile III,Spirit AeroSystems Holdings,406,Aerospace & Defense,no,no,no,,
+Mark T. Smucker,Mark Smucker,J.M. Smucker,407,"Food, Beverages & Tobacco",no,no,no,1969,51
+Vincent Sorgi,Vincent Sorgi,PPL,408,Energy,no,no,no,,
+Kenneth T. Lamneck,Kenneth Lamneck,Insight Enterprises,409,Technology,no,no,no,,
+Stephen H. Rusckowski,Stephen Rusckowski,Quest Diagnostics,410,Health Care,no,no,no,,
+Christopher Gorman,Christopher Gorman,KeyCorp,411,Financials,no,no,no,,
+Salvatore A. Abbate,Salvatore Abbate,Veritiv,412,Wholesalers,no,no,no,,
+Wouter T. van Kempen,Wouter van Kempen,DCP Midstream,413,Energy,no,no,no,,
+Thomas A. Bartlett,Thomas Bartlett,American Tower,414,Financials,no,no,no,1979,41
+Kathleen M. Mazzarella,Kathleen Mazzarella,Graybar Electric,415,Wholesalers,no,no,yes,,
+J. Kevin Fletcher,J. Kevin Fletcher,WEC Energy Group,416,Energy,no,no,no,1975,45
+Paul C. Saville,Paul Saville,NVR,417,Engineering & Construction,no,no,no,1956,64
+Mary N. Dillon,Mary Dillon,Ulta Beauty,418,Retailing,no,no,yes,,
+David A. Hager,David Hager,Devon Energy,419,Energy,no,no,no,,
+Stephen A. Schwarzman,Stephen Schwarzman,Blackstone Group,420,Financials,no,yes,no,1947,73
+Gary W. Rahlfs,Gary Rahlfs,Dean Foods,421,"Food, Beverages & Tobacco",no,no,no,,
+James A. Lico,James Lico,Fortive,422,Industrials,no,no,no,,
+John L. Walsh,John Walsh,UGI,423,Energy,no,no,no,1945,75
+,,Burlington Stores,424,Retailing,no,no,no,,
+M. Chad Crow,M. Chad Crow,Builders FirstSource,425,Materials,no,no,no,,
+Douglas C. Yearley Jr.,Douglas Yearley Jr.,Toll Brothers,426,Engineering & Construction,no,no,no,,
+Craig R. Smiddy,Craig Smiddy,Old Republic International,427,Financials,no,no,no,,
+David W. Hult,David Hult,Asbury Automotive Group,428,Retailing,no,no,no,,
+J. Patrick Gallagher Jr.,J. Patrick Gallagher Jr.,Arthur J. Gallagher,429,Financials,no,no,no,,
+José R. Mas,José Mas,MasTec,430,Engineering & Construction,no,no,no,,
+Brian D. Chambers,Brian Chambers,Owens Corning,431,Materials,no,no,no,,
+Kenneth J. Fasola,Kenneth Fasola,Magellan Health,432,Health Care,no,no,no,,
+Richard J. Tobin,Richard Tobin,Dover,433,Industrials,no,no,no,,
+Julian G. Francis,Julian Francis,Beacon Roofing Supply,434,Wholesalers,no,no,no,,
+Mitchell R. Butier,Mitchell Butier,Avery Dennison,435,Materials,no,no,no,,
+Stephen B. Bratspies,Stephen Bratspies,Hanesbrands,436,Apparel,no,no,no,,
+Mark W. Kowlzan,Mark Kowlzan,Packaging Corp. of America,437,Materials,no,no,no,,
+René F. Jones,René Jones,M&T Bank,438,Financials,no,no,no,,
+Michael D. Hayford,Michael Hayford,NCR,439,Technology,no,no,no,,
+Michael G. O&#039;Grady,Michael O&#039;Grady,Northern Trust,440,Financials,no,no,no,1963,57
+Scott D. Farmer,Scott Farmer,Cintas,441,Business Services,no,no,no,,
+Michael T. Speetzen,Michael Speetzen,Polaris,442,Transportation,no,no,no,,
+Patricia K. Poppe,Patricia Poppe,CMS Energy,443,Energy,no,no,yes,1969,51
+Robert L. Steer,Robert Steer,Seaboard,444,"Food, Beverages & Tobacco",no,no,no,,
+Sasan K. Goodarzi,Sasan Goodarzi,Intuit,445,Technology,no,no,no,,
+John M. Turner Jr.,John Turner Jr.,Regions Financial,446,Financials,no,no,no,,
+Thomas A. Lawson,Thomas Lawson,FM Global,447,Financials,yes,no,no,,
+Lisa T. Su,Lisa Su,Advanced Micro Devices (AMD),448,Technology,no,no,yes,1969,51
+Douglas J. Suttles,Douglas Suttles,Ovintiv,449,Energy,yes,no,no,1944,76
+Horacio D. Rozanski,Horacio Rozanski,Booz Allen Hamilton Holding,450,Technology,no,no,no,1968,52
+Douglas L. Peterson,Douglas Peterson,S&P Global,451,Business Services,no,no,no,,
+Blake D. Moret,Blake Moret,Rockwell Automation,452,Industrials,no,no,no,,
+Andres A. Lopez,Andres Lopez,O-I Glass,453,Materials,no,no,no,,
+Matthew O. Maddox,Matthew Maddox,Wynn Resorts,454,"Hotels, Restaurants & Leisure",no,no,no,1971,49
+Christopher M. Hilger,Christopher Hilger,Securian Financial Group,455,Financials,yes,no,no,,
+Ralph J. Andretta,Ralph Andretta,Alliance Data Systems,456,Business Services,no,no,no,1988,32
+Devin W. Stockfish,Devin Stockfish,Weyerhaeuser,457,Materials,no,no,no,,
+Eric T. Steigerwalt,Eric Steigerwalt,Brighthouse Financial,457,Financials,no,no,no,,
+Jeffrey Sprecher,Jeffrey Sprecher,Intercontinental Exchange,459,Financials,no,yes,no,1955,65
+David C. Dauch,David Dauch,American Axle & Manufacturing,460,Motor Vehicles & Parts,no,no,no,,
+John B. Hess,John Hess,Hess,461,Energy,no,no,no,1954,66
+Scott B. Salmirs,Scott Salmirs,ABM Industries,462,Business Services,no,no,no,,
+Robert A. Kotick,Robert Kotick,Activision Blizzard,463,Media,no,no,no,1963,57
+George E. Sherman,George Sherman,GameStop,464,Retailing,no,no,no,1991,29
+John J. Christmann IV,John Christmann IV,APA,465,Energy,no,no,no,,
+Nazzic S. Keene,Nazzic Keene,Science Applications International,466,Technology,yes,no,yes,,
+Lourenco C. Goncalves,Lourenco Goncalves,AK Steel Holding,467,Materials,no,no,no,,
+William T. Dillard II,William Dillard II,Dillard&#8217;s,468,Retailing,no,no,no,1945,75
+Patrice Louvet,Patrice Louvet,Ralph Lauren,469,Apparel,no,no,no,1964,56
+Lori J. Ryerkerk,Lori Ryerkerk,Celanese,470,Chemicals,no,no,yes,,
+Daniel L. Knotts,Daniel Knotts,R.R. Donnelley & Sons,471,Media,no,no,no,,
+Kristin C. Peck,Kristin Peck,Zoetis,472,Health Care,no,no,yes,1968,52
+Carrie W. Teffner,Carrie Teffner,Ascena Retail Group,473,Retailing,no,no,yes,,
+Linda Rendle,Linda Rendle,Clorox,474,Household Products,no,no,yes,,
+James P. Zallie,James Zallie,Ingredion,475,"Food, Beverages & Tobacco",no,no,no,,
+Dennis J. Gilmore,Dennis Gilmore,First American Financial,476,Financials,no,no,no,,
+Michael P. Doss,Michael Doss,Graphic Packaging Holding,477,Materials,no,no,no,,
+George Kurian,George Kurian,NetApp,478,Technology,no,no,no,,
+Joseph J. DeAngelo,Joseph DeAngelo,HD Supply Holdings,478,Wholesalers,no,no,no,1945,75
+Jonathan M. Pertchik,Jonathan Pertchik,TravelCenters of America,480,Retailing,no,no,no,,
+Scott M. Sutton,Scott Sutton,Olin,481,Chemicals,no,no,no,1970,50
+M. Keith Waddell,M. Keith Waddell,Robert Half International,482,Business Services,no,no,no,,
+Barry E. Davis,Barry Davis,EnLink Midstream,483,Energy,no,no,no,1943,77
+Michael Stubblefield,Michael Stubblefield,Avantor,484,Technology,yes,no,no,,
+Joanne Crevoiserat,Joanne Crevoiserat,Tapestry,485,Apparel,no,no,yes,,
+Stephen J. Boyle,Stephen Boyle,TD Ameritrade Holding,486,Financials,yes,no,no,1980,40
+Vincent T. Roche,Vincent Roche,Analog Devices,487,Technology,no,no,no,1966,54
+Warner L. Baxter,Warner Baxter,Ameren,488,Energy,no,no,no,1951,69
+Laura J. Alber,Laura Alber,Williams-Sonoma,489,Retailing,no,no,yes,1968,52
+Ryan M. Schneider,Ryan Schneider,Realogy Holdings,490,Financials,no,no,no,1992,28
+Barbara R. Smith,Barbara Smith,Commercial Metals,491,Materials,yes,no,yes,1931,89
+W. M. Rush,W. Rush,Rush Enterprises,492,Retailing,yes,no,no,,
+Jennifer M. Johnson,Jennifer Johnson,Franklin Resources,493,Financials,no,no,yes,,
+Nicholas I. Fink,Nicholas Fink,Fortune Brands Home & Security,494,Household Products,yes,no,no,,
+Charles V. Bergh,Charles Bergh,Levi Strauss,495,Apparel,no,no,no,,
+Jay A. Brown,Jay Brown,Crown Castle International,496,Financials,yes,no,no,,
+David E. Simon,David Simon,Simon Property Group,497,Financials,no,no,no,1962,58
+D. Brent Shafer,D. Brent Shafer,Cerner,498,Health Care,yes,no,no,,
+Robert V. Vitale,Robert Vitale,Post Holdings,499,"Food, Beverages & Tobacco",no,no,no,1947,73
+Stephen D. Steinour,Stephen Steinour,Huntington Bancshares,500,Financials,yes,no,no,,
+Stuart Bradie,Stuart Bradie,KBR,501,Engineering & Construction,,no,no,1966,54
+Jack L. Sinclair,Jack Sinclair,Sprouts Farmers Market,502,Food & Drug Stores,,no,no,1978,42
+Dan H. Arnold,Dan Arnold,LPL Financial Holdings,503,Financials,,no,no,1947,73
+William J. Stromberg,William Stromberg,T. Rowe Price,504,Financials,,no,no,,
+David W. Gibbs,David Gibbs,Yum Brands,505,"Hotels, Restaurants & Leisure",,no,no,1903,117
+Brian R. Niccol,Brian Niccol,Chipotle Mexican Grill,506,"Hotels, Restaurants & Leisure",,no,no,,
+Mark S. Walchirk,Mark Walchirk,Patterson,507,Health Care,,no,no,,
+Frank C. Sullivan,Frank Sullivan,RPM International,508,Chemicals,,no,no,,
+Charles J. Meyers,Charles Meyers,Equinix,509,Financials,,no,no,1972,48
+John F. Remondi,John Remondi,Navient,510,Financials,,no,no,,
+Mark P. Vergnano,Mark Vergnano,Chemours,511,Chemicals,,no,no,,
+Hassane El-Khoury,Hassane El-Khoury,ON Semiconductor,512,Technology,,no,no,,
+Kevin M. Stein,Kevin Stein,TransDigm Group,513,Aerospace & Defense,,no,no,,
+James F. Risoleo,James Risoleo,Host Hotels & Resorts,514,Financials,,no,no,,
+David S. Chernow,David Chernow,Select Medical Holdings,515,Health Care,,no,no,1949,71
+William C. Pate,William Pate,Par Pacific Holdings,516,Energy,,no,no,,
+R. Howard Coker,R. Howard Coker,Sonoco Products,517,Materials,,no,no,,
+L. Neil Hunn,L. Neil Hunn,Roper Technologies,518,Technology,,no,no,,
+Jochen Zeitz,Jochen Zeitz,Harley-Davidson,519,Transportation,,no,no,1963,57
+Richard B. Handler,Richard Handler,Jefferies Financial Group,520,Financials,,no,no,1961,59
+Peter W. Quigley,Peter Quigley,Kelly Services,521,Business Services,,no,no,,
+Ganesh Moorthy,Ganesh Moorthy,Microchip Technology,522,Technology,,no,no,,
+Lawrence E. Kurzius,Lawrence Kurzius,McCormick,523,"Food, Beverages & Tobacco",,no,no,1932,88
+David L. Goodin,David Goodin,MDU Resources Group,524,Energy,,no,no,,
+Daniel L. Florness,Daniel Florness,Fastenal,525,Wholesalers,,no,no,,
+Bruce K. Thorn,Bruce Thorn,Big Lots,526,Retailing,,no,no,,
+Jay A. Snowden,Jay Snowden,Penn National Gaming,527,"Hotels, Restaurants & Leisure",,no,no,,
+Hikmet Ersek,Hikmet Ersek,Western Union,528,Business Services,,no,no,1961,59
+Patrik Frisk,Patrik Frisk,Under Armour,529,Apparel,,no,no,1963,57
+Patrick K. Decker,Patrick Decker,Xylem,530,Industrials,,no,no,,
+Robert Greenberg,Robert Greenberg,Skechers U.S.A.,531,Apparel,,yes,no,1954,66
+John D. Williams,John Williams,Domtar,532,Materials,,no,no,1932,88
+Joseph J. Hamrock,Joseph Hamrock,NiSource,533,Energy,,no,no,,
+Lee M. Tillman,Lee Tillman,Marathon Oil,534,Energy,,no,no,,
+Barry Karfunkel,Barry Karfunkel,National General Holdings,535,Financials,,no,no,,
+LeRoy T. Carlson Jr.,LeRoy Carlson Jr.,Telephone & Data Systems,536,Telecommunications,,no,no,,
+Michael R. McMullen,Michael McMullen,Agilent Technologies,537,Technology,,no,no,,
+David A. Zapico,David Zapico,Ametek,538,Technology,,no,no,,
+David A. Campbell,David Campbell,Evergy,539,Energy,,no,no,1973,47
+Andreas Fibig,Andreas Fibig,International Flavors & Fragrances,540,Chemicals,,no,no,,
+James D. DeVries,James DeVries,ADT,541,Business Services,,no,no,,
+Shankh Mitra,Shankh Mitra,Welltower,542,Financials,,no,no,,
+Anthony W. Thomas,Anthony Thomas,Windstream Holdings,543,Telecommunications,,no,no,,
+Ashley Buchanan,Ashley Buchanan,Michaels,544,Retailing,,no,no,1974,46
+Joseph Lacher Jr.,Joseph Lacher Jr.,Kemper,545,Financials,,no,no,,
+Mark S. Hoplamazian,Mark Hoplamazian,Hyatt Hotels,546,"Hotels, Restaurants & Leisure",,no,no,,
+Ludwig N. Hantson Ph.D.,Ludwig Hantson Ph.D.,Alexion Pharmaceuticals,547,Health Care,,no,no,,
+Jay Geldmacher,Jay Geldmacher,Resideo Technologies,548,Materials,,no,no,,
+John S. Mengucci,John Mengucci,CACI International,549,Technology,,no,no,,
+Andrew Wilson,Andrew Wilson,Electronic Arts,550,Media,,no,no,1964,56
+J. Thomas Hill,J. Thomas Hill,Vulcan Materials,551,Materials,,no,no,1959,61
+Steven T. Oakland,Steven Oakland,TreeHouse Foods,552,"Food, Beverages & Tobacco",,no,no,,
+Jeffrey S. Sloan,Jeffrey Sloan,Global Payments,553,Business Services,,no,no,,
+John C. Roche,John Roche,Hanover Insurance Group,554,Financials,,no,no,,
+Marcus A. Lemonis,Marcus Lemonis,Camping World Holdings,555,Retailing,,no,no,1973,47
+James S. Metcalf,James Metcalf,Cornerstone Building Brands,556,Materials,,no,no,,
+Darren D. Hawkins,Darren Hawkins,Yellow,557,Transportation,,no,no,1966,54
+Terrence A. Duffy,Terrence Duffy,CME Group,558,Financials,,no,no,,
+Sumit Singh,Sumit Singh,Chewy,559,Retailing,,no,no,,
+David Jackson,David Jackson,Knight-Swift Transportation Holdings,560,Transportation,,no,no,,
+Robert Fauber,Robert Fauber,Moody&#8217;s,561,Business Services,,no,no,,
+J. Frank Harrison III,J. Frank Harrison III,Coca-Cola Consolidated,562,"Food, Beverages & Tobacco",,no,no,,
+D. Christian Koch,D. Christian Koch,Carlisle,563,Materials,,no,no,,
+Edward L. Doheny II,Edward Doheny II,Sealed Air,564,Materials,,no,no,,
+Gregory N. Roberts,Gregory Roberts,A-Mark Precious Metals,565,Materials,,no,no,1950,70
+Albert H. Nahmad,Albert Nahmad,Watsco,566,Wholesalers,,no,no,,
+Sheryl D. Palmer,Sheryl Palmer,Taylor Morrison Home,567,Engineering & Construction,,no,yes,,
+Joseph M. Levin,Joseph Levin,IAC/InterActiveCorp,568,Technology,,no,no,,
+Karl G. Glassman,Karl Glassman,Leggett & Platt,569,Household Products,,no,no,,
+Douglas H. Shulman,Douglas Shulman,OneMain Holdings,570,Financials,,no,no,1967,53
+Mark B. Rourke,Mark Rourke,Schneider National,571,Transportation,,no,no,1964,56
+C. Howard Nye,C. Howard Nye,Martin Marietta Materials,572,Materials,,no,no,,
+Vincent Pilette,Vincent Pilette,NortonLifeLock,573,Technology,,no,no,,
+Brian D. Goldner,Brian Goldner,Hasbro,574,Household Products,,no,no,1963,57
+Jack Dorsey,Jack Dorsey,Square,575,Business Services,,yes,no,1976,44
+John L. Garrison Jr.,John Garrison Jr.,Terex,576,Industrials,,no,no,,
+Alistair Macdonald,Alistair Macdonald,Syneos Health,577,Health Care,,no,no,1999,21
+Mark Douglas,Mark Douglas,FMC,578,Chemicals,,no,no,,
+Nathan R. Jorgensen,Nathan Jorgensen,Boise Cascade,579,Wholesalers,,no,no,1957,63
+William C. Stone,William Stone,SS&C Technologies Holdings,580,Technology,,yes,no,,
+William B. Berry,William Berry,Continental Resources,581,Energy,,no,no,1971,49
+Glenn L. Kellow,Glenn Kellow,Peabody Energy,582,Energy,,no,no,,
+Mark J. Tarr,Mark Tarr,Encompass Health,583,Health Care,,no,no,1972,48
+Peter G. Watson,Peter Watson,Greif,584,Materials,,no,no,,
+Timothy A. Leach,Timothy Leach,Concho Resources,585,Energy,,no,no,,
+Gerben W. Bakker,Gerben W. Bakker,Hubbell,586,Industrials,,no,no,,
+W. Anthony Will,W. Anthony Will,CF Industries Holdings,587,Chemicals,,no,no,,
+Richard P. Wallace,Richard Wallace,KLA,588,Technology,,no,no,,
+Robert H. Fish,Robert Fish,Genesis Healthcare,589,Health Care,,no,no,,
+David M. Foulkes,David Foulkes,Brunswick,590,Transportation,,no,no,1988,32
+Jeffrey T. Mezger,Jeffrey Mezger,KB Home,591,Engineering & Construction,,no,no,,
+Gary L. Coleman,Gary Coleman,Globe Life,592,Financials,,no,no,1960,60
+Ynon Kreiz,Ynon Kreiz,Mattel,593,Household Products,,no,no,1965,55
+Edward J. Lehner,Edward Lehner,Ryerson Holding,594,Materials,,no,no,1933,87
+Anthony J. Allott,Anthony Allott,Silgan Holdings,595,Materials,,no,no,,
+Anders Gustafsson,Anders Gustafsson,Zebra Technologies,596,Industrials,,no,no,,
+Gary Guthart,Gary Guthart,Intuitive Surgical,597,Health Care,,no,no,,
+Stephen F. Cooper,Stephen Cooper,Warner Music Group,598,Media,,no,no,1948,72
+Clifford A. Skelton,Clifford Skelton,Conduent,599,Business Services,,no,no,,
+Ronald N. Tutor,Ronald Tutor,Tutor Perini,600,Engineering & Construction,,no,no,1941,79
+Rami Rahim,Rami Rahim,Juniper Networks,601,Technology,,no,no,,
+David L. Stover,David Stover,Noble Energy,602,Energy,,no,no,1994,26
+Robert J. Johnson,Robert Johnson,Vertiv Holdings,603,Industrials,,no,no,1938,82
+Anthony Ledru,Anthony Ledru,Tiffany,604,Retailing,,no,no,,
+Toby Z. Rice,Toby Rice,EQT,605,Energy,,no,no,,
+Matthew J. Missad,Matthew Missad,UFP Industries,606,Materials,,no,no,,
+Gerrard B. Schmid,Gerrard Schmid,Diebold Nixdorf,607,Technology,,no,no,,
+Paul M. Rady,Paul Rady,Antero Resources,608,Energy,,yes,no,,
+Chris Villavarayan,Chris Villavarayan,Meritor,609,Motor Vehicles & Parts,,no,no,,
+Timothy C. Gokey,Timothy Gokey,Broadridge Financial Solutions,610,Business Services,,no,no,,
+Matthew T. Farrell,Matthew Farrell,Church & Dwight,611,Household Products,,no,no,,
+Stephen P. Weisz,Stephen Weisz,Marriott Vacations Worldwide,612,"Hotels, Restaurants & Leisure",,no,no,,
+Michael A. Mussallem,Michael Mussallem,Edwards Lifesciences,613,Health Care,,no,no,,
+Matthew L. Trerotola,Matthew Trerotola,Colfax,614,Industrials,,no,no,,
+Paul J. Sarvadi,Paul Sarvadi,Insperity,615,Business Services,,yes,no,,
+Jay L. Schottenstein,Jay Schottenstein,American Eagle Outfitters,616,Retailing,,no,no,1954,66
+Ronald S. Nersesian,Ronald Nersesian,Keysight Technologies,617,Technology,,no,no,,
+Gary S. Michel,Gary Michel,JELD-WEN Holding,618,Materials,,no,no,,
+William L. Meaney,William Meaney,Iron Mountain,619,Business Services,,no,no,,
+Adena T. Friedman,Adena Friedman,Nasdaq,620,Financials,,no,yes,1969,51
+Eugene A. Hall,Eugene Hall,Gartner,621,Technology,,no,no,,
+Christopher S. Ripley,Christopher Ripley,Sinclair Broadcast Group,622,Media,,no,no,,
+James W. Lanning,James Lanning,Ingles Markets,623,Food & Drug Stores,,no,no,,
+Rodney C. Sacks,Rodney Sacks,Monster Beverage,624,"Food, Beverages & Tobacco",,no,no,1968,52
+Roger W. Jenkins,Roger Jenkins,Murphy Oil,625,Energy,,no,no,1955,65
+Reshma Kewalramani,Reshma Kewalramani,Vertex Pharmaceuticals,626,Health Care,,no,no,1973,47
+James H. Herbert II,James Herbert II,First Republic Bank,627,Financials,,yes,no,,
+David J. Deno,David Deno,Bloomin&#8217; Brands,628,"Hotels, Restaurants & Leisure",,no,no,,
+David M. Maura,David Maura,Spectrum Brands Holdings,629,Household Products,,no,no,1965,55
+J. Joel Quadracci,J. Joel Quadracci,Quad/Graphics,630,Media,,no,no,,
+A. Ryals McMullian,A. Ryals McMullian,Flowers Foods,631,"Food, Beverages & Tobacco",,no,no,,
+Robert N. Trunzo,Robert Trunzo,CUNA Mutual Group,632,Financials,,no,no,,
+Robert S. Wetherbee,Robert Wetherbee,Allegheny Technologies,633,Materials,,no,no,1936,84
+Greg C. Gantt,Greg Gantt,Old Dominion Freight Line,634,Transportation,,no,no,,
+James B. Gattoni,James Gattoni,Landstar System,635,Transportation,,no,no,,
+James E. Pozzi,James Pozzi,American National Group,636,Financials,,no,no,1960,60
+Nicholas T. Pinchuk,Nicholas Pinchuk,Snap-on,637,Industrials,,no,no,,
+Lucinda M. Baier,Lucinda Baier,Brookdale Senior Living,638,Health Care,,no,yes,,
+Geil Rutten,Geil Rutten,Amkor Technology,639,Technology,,no,no,,
+Michael D. Brown,Michael Brown,Wyndham Destinations,640,"Hotels, Restaurants & Leisure",,no,no,1954,66
+David S. Simmons,David Simmons,PPD,641,Health Care,,no,no,1996,24
+Donald M. Casey Jr.,Donald Casey Jr.,Dentsply Sirona,642,Health Care,,no,no,,
+Gary C. Bhojwani,Gary Bhojwani,CNO Financial Group,643,Financials,,no,no,,
+Richard A. Hayne,Richard Hayne,Urban Outfitters,644,Retailing,,yes,no,1947,73
+Sean E. Menke,Sean Menke,Sabre,645,Technology,,no,no,,
+Gabriel Tirador,Gabriel Tirador,Mercury General,646,Financials,,no,no,,
+Travis D. Stice,Travis Stice,Diamondback Energy,647,Energy,,no,no,,
+Charles L. Harrington,Charles Harrington,Parsons,648,Aerospace & Defense,,no,no,,
+John W. Robinson III,John Robinson III,Aaron's,649,Retailing,,no,no,,
+R. Scott Rowe,R. Scott Rowe,Flowserve,650,Industrials,,no,no,,
+Ernest C. Garcia,Ernest Garcia,Carvana,651,Retailing,,yes,no,1983,37
+Theodore S. Hanson,Theodore Hanson,ASGN,652,Business Services,,no,no,,
+Christian A. Brickman,Christian Brickman,Sally Beauty Holdings,653,Retailing,,no,no,,
+Michael L. Baur,Michael Baur,ScanSource,654,Wholesalers,,yes,no,,
+Debra A. Cafaro,Debra Cafaro,Ventas,655,Financials,,no,yes,,
+Jim Jacobs,Jim Jacobs,Country Financial,656,Financials,,no,no,1942,78
+Burton M. Goldfield,Burton Goldfield,TriNet Group,657,Business Services,,no,no,,
+Edward M. Christie III,Edward Christie III,Spirit Airlines,658,Transportation,,no,no,1976,44
+Curtis C. Farmer,Curtis Farmer,Comerica,659,Financials,,no,no,,
+Todd M. Bluedorn,Todd Bluedorn,Lennox International,660,Industrials,,no,no,,
+Richard G. Kyle,Richard Kyle,Timken,661,Industrials,,no,no,1984,36
+Martin Mucci,Martin Mucci,Paychex,662,Business Services,,no,no,,
+Edward J. Shoen,Edward Shoen,Amerco,663,Transportation,,no,no,1949,71
+B. Andrew Rose,B. Andrew Rose,Worthington Industries,664,Materials,,no,no,,
+Thomas P. Werner,Thomas Werner,Lamb Weston Holdings,665,"Food, Beverages & Tobacco",,no,no,1979,41
+Eilif Serck-Hanssen,Eilif Serck-Hanssen,Laureate Education,666,Business Services,,no,no,,
+Eileen C. McDonnell,Eileen McDonnell,Penn Mutual Life Insurance,667,Financials,,no,yes,1952,68
+Robert W. Pittman,Robert Pittman,iHeartMedia,668,Media,,no,no,1953,67
+Douglas A. Pertz,Douglas Pertz,Brink's,669,Business Services,,no,no,,
+Peter G. McPartland,Peter McPartland,Sentry Insurance Group,670,Financials,,no,no,,
+Neil M. Ashe,Neil Ashe,Acuity Brands,671,Industrials,,no,no,1993,27
+David P. Yeager,David Yeager,Hub Group,672,Transportation,,no,no,,
+Phillipe Lord,Phillipe Lord,Meritage Homes,673,Engineering & Construction,,no,no,,
+Robert J. Saltiel Jr.,Robert Saltiel Jr.,MRC Global,674,Energy,,no,no,,
+John O. Larsen,John Larsen,Alliant Energy,675,Energy,,no,no,1989,31
+Aneel Bhusri,Aneel Bhusri,Workday,676,Technology,,yes,no,1966,54
+David E. Flitman,David Flitman,BMC Stock Holdings,677,Wholesalers,,no,no,,
+Fran Horowitz,Fran Horowitz,Abercrombie & Fitch,678,Retailing,,no,yes,,
+Richard E. Allison,Richard Allison,Domino's Pizza,679,"Hotels, Restaurants & Leisure",,no,no,1958,62
+Logan Green,Logan Green,Lyft,680,Technology,,yes,no,,
+Thomas H. Harty,Thomas Harty,Meredith,681,Media,,no,no,1941,79
+Walter J. Lynch,Walter Lynch,American Water Works,682,Energy,,no,no,,
+,,Albemarle,683,Chemicals,,no,no,,
+Gary B. Smith,Gary Smith,Ciena,684,Technology,,no,no,,
+James Daunt,James Daunt,Barnes & Noble,685,Retailing,,no,no,1963,57
+Jonathan H. Weis,Jonathan Weis,Weis Markets,686,Food & Drug Stores,,no,no,,
+Francis deSouza,Francis deSouza,Illumina,687,Technology,,no,no,1970,50
+Gregory Becker,Gregory Becker,SVB Financial Group,688,Financials,,no,no,,
+Michael D. Casey,Michael Casey,Carter's,689,Apparel,,no,no,1941,79
+Ronald J. Kruszewski,Ronald Kruszewski,Stifel Financial,690,Financials,,no,no,,
+Mark S. Ordan,Mark Ordan,Mednax,691,Health Care,,yes,no,,
+Mark W. Begor,Mark Begor,Equifax,692,Business Services,,no,no,1959,61
+James P. Hallett,James Hallett,Kar Auction Services,693,Wholesalers,,no,no,,
+Guillermo Novo,Guillermo Novo,Ashland Global Holdings,694,Chemicals,,no,no,,
+Richard A. Chiricosta,Richard Chiricosta,Medical Mutual of Ohio,695,Financials,,no,no,,
+David C. Glendon,David Glendon,Sprague Resources,696,Energy,,no,no,,
+Charles Liang,Charles Liang,Super Micro Computer,697,Technology,,yes,no,,
+Roger L. Rawlins,Roger Rawlins,Designer Brands,698,Retailing,,no,no,1952,68
+Marc B. Lautenbach,Marc Lautenbach,Pitney Bowes,699,Technology,,no,no,,
+Neil A. Schrimsher,Neil Schrimsher,Applied Industrial Technologies,700,Wholesalers,,no,no,,
+Jeffrey B Guldner,Jeffrey Guldner,Pinnacle West Capital,701,Energy,,no,no,,
+Anant Bhalla,Anant Bhalla,American Equity Investment Life Holding,702,Financials,,no,no,,
+William R. McDermott,William McDermott,ServiceNow,703,Technology,,no,no,1961,59
+Jack Dorsey,Jack Dorsey,Twitter,704,Technology,,yes,no,1976,44
+Stephen P. Mawer,Stephen Mawer,Calumet Specialty Products Partners,705,Energy,,no,no,,
+James P. Keane,James Keane,Steelcase,706,Household Products,,no,no,1927,93
+Joe F. Sanderson Jr.,Joe Sanderson Jr.,Sanderson Farms,707,"Food, Beverages & Tobacco",,no,no,,
+Jon Morrison,Jon Morrison,WABCO Holdings,708,Motor Vehicles & Parts,,no,no,,
+Alan S. McKim,Alan McKim,Clean Harbors,709,Business Services,,yes,no,,
+Mary E. Kipp,Mary Kipp,Puget Energy,710,Energy,,no,yes,,
+Barry L. Cottle,Barry Cottle,Scientific Games,711,"Hotels, Restaurants & Leisure",,no,no,1962,58
+Kyle T. Larkin,Kyle Larkin,Granite Construction,712,Engineering & Construction,,no,no,,
+Kewsong Lee,Kewsong Lee,Carlyle Group,713,Financials,,no,no,,
+Liam K. Griffin,Liam Griffin,Skyworks Solutions,714,Technology,,no,no,,
+Sean M. Stack,Sean Stack,Aleris,715,Materials,,no,no,1953,67
+Roberto Garcia-Rodriguez,Roberto Garcia-Rodriguez,Triple-S Management,716,Health Care,,no,no,1995,25
+Craig Rogerson,Craig Rogerson,Hexion,717,Chemicals,,no,no,1965,55
+Stephen P. MacMillan,Stephen MacMillan,Hologic,718,Health Care,,no,no,,
+Daniel J. Crowley,Daniel Crowley,Triumph Group,719,Aerospace & Defense,,no,no,1998,22
+Randall C. Stuewe,Randall Stuewe,Darling Ingredients,720,"Food, Beverages & Tobacco",,no,no,,
+Erik Gershwind,Erik Gershwind,MSC Industrial Direct,721,Wholesalers,,no,no,,
+Paul J. Cormier,Paul Cormier,Red Hat,722,Technology,,no,no,1969,51
+Aart J. de Geus,Aart de Geus,Synopsys,723,Technology,,yes,no,1954,66
+Robert M. Patterson,Robert Patterson,PolyOne,724,Chemicals,,no,no,,
+Steven E. Nielsen,Steven Nielsen,Dycom Industries,725,Engineering & Construction,,no,no,,
+Sean D. Keohane,Sean Keohane,Cabot,726,Chemicals,,no,no,,
+Hamid R. Moghadam,Hamid Moghadam,Prologis,727,Financials,,no,no,1956,64
+Keith E. Smith,Keith Smith,Boyd Gaming,728,"Hotels, Restaurants & Leisure",,no,no,,
+Suzanne Bettman,Suzanne Bettman,LSC Communications,729,Media,,no,no,,
+Lawson E. Whiting,Lawson Whiting,Brown-Forman,730,"Food, Beverages & Tobacco",,no,no,,
+Cindy J. Miller,Cindy Miller,Stericycle,731,Business Services,,no,yes,1954,66
+Ellen R. Alemany,Ellen Alemany,CIT Group,732,Financials,,no,yes,,
+David M. Mandarich,David Mandarich,MDC Holdings,733,Engineering & Construction,,no,no,,
+Alfred M. Rankin Jr.,Alfred Rankin Jr.,Hyster-Yale Materials Handling,734,Industrials,,no,no,,
+Max H. Mitchell,Max Mitchell,Crane,735,Industrials,,no,no,1994,26
+Mark Zoradi,Mark Zoradi,Cinemark Holdings,736,Media,,no,no,,
+Andrew Anagnost,Andrew Anagnost,Autodesk,737,Technology,,no,no,,
+Robert G. Painter,Robert Painter,Trimble,738,Technology,,no,no,,
+Olivier Rabiller,Olivier Rabiller,Garrett Motion,739,Motor Vehicles & Parts,,no,no,,
+Harris H. Simmons,Harris Simmons,Zions Bancorp.,740,Financials,,no,no,,
+Louis V. Pinkham,Louis Pinkham,Regal Beloit,741,Industrials,,no,no,1919,101
+Thomas L. Ryan,Thomas Ryan,Service Corp. International,742,Business Services,,no,no,,
+Dow R. Wilson,Dow Wilson,Varian Medical Systems,743,Health Care,,no,no,,
+Sherry S. Bahrambeygui,Sherry Bahrambeygui,PriceSmart,744,Retailing,,no,yes,,
+Wyman T. Roberts,Wyman Roberts,Brinker International,745,"Hotels, Restaurants & Leisure",,no,no,1987,33
+A. William Stein,A. William Stein,Digital Realty Trust,746,Financials,,no,no,,
+Peter D. Arvan,Peter Arvan,Pool,747,Wholesalers,,no,no,,
+Robert G Phillips,Robert Phillips,Crestwood Equity Partners,748,Energy,,no,no,,
+Kevin Samuelson,Kevin Samuelson,Infor,749,Technology,,no,no,,
+Todd P. Kelsey,Todd Kelsey,Plexus,750,Technology,,no,no,1955,65
+Aldo Pichelli,Aldo Pichelli,Teledyne Technologies,751,Aerospace & Defense,,no,no,,
+Morris Goldfarb,Morris Goldfarb,G-III Apparel Group,752,Apparel,,no,no,,
+James S. Hagedorn,James Hagedorn,Scotts Miracle-Gro,753,Chemicals,,no,no,1962,58
+Leon D. Black,Leon Black,Apollo Global Management,754,Financials,,yes,no,1951,69
+Michael A. Pizzi,Michael Pizzi,E*Trade Financial,755,Financials,,no,no,,
+Richard M. Olson,Richard Olson,Toro,756,Industrials,,no,no,1994,26
+John P. Hester,John Hester,Southwest Gas Holdings,757,Energy,,no,no,,
+John C. Turner Jr.,John Turner Jr.,GMS,758,Wholesalers,,no,no,1955,65
+Jeffrey S. Edwards,Jeffrey Edwards,Cooper-Standard Holdings,759,Motor Vehicles & Parts,,no,no,1994,26
+Debra K. Osteen,Debra Osteen,Acadia Healthcare,760,Health Care,,no,yes,,
+Dan L. Batrack,Dan Batrack,Tetra Tech,761,Engineering & Construction,,no,no,,
+Thomas E. McCormick,Thomas McCormick,Primoris Services,762,Engineering & Construction,,no,no,,
+Scott L. Thompson,Scott Thompson,Tempur Sealy International,763,Household Products,,no,no,1959,61
+Jeffrey J. Jones II,Jeffrey Jones II,H&R Block,764,Financials,,no,no,,
+Robert A. Bruggeworth,Robert Bruggeworth,Qorvo,765,Technology,,no,no,,
+Douglas F. Bauer,Douglas Bauer,TRI Pointe Group,766,Engineering & Construction,,no,no,,
+Sandra B. Cochran,Sandra Cochran,Cracker Barrel Old Country Store,767,"Hotels, Restaurants & Leisure",,no,yes,,
+Jeffrey N. Simmons,Jeffrey Simmons,Elanco Animal Health,768,Health Care,,no,no,,
+Colin Shannon,Colin Shannon,PRA Health Sciences,769,Technology,,no,no,1964,56
+Mark R. Widmar,Mark Widmar,First Solar,770,Energy,,no,no,,
+Joshua W. Sapan,Joshua Sapan,AMC Networks,771,Media,,no,no,,
+Victor Peng,Victor Peng,Xilinx,772,Technology,,no,no,1960,60
+Todd A. Becker,Todd Becker,Green Plains,773,Energy,,no,no,1950,70
+Timothy P. Boyle,Timothy Boyle,Columbia Sportswear,774,Apparel,,no,no,1949,71
+Perry Sook,Perry Sook,Nexstar Media Group,775,Media,,no,no,,
+William J. Way,William Way,Southwestern Energy,776,Energy,,no,no,,
+William A. Furman,William Furman,Greenbrier,777,Transportation,,no,no,1972,48
+Robert Cagnazzi,Robert Cagnazzi,Presidio,778,Technology,,no,no,,
+David J. Henshall,David Henshall,Citrix Systems,779,Technology,,no,no,,
+Olivier A. Filliol,Olivier Filliol,Mettler-Toledo International,780,Technology,,no,no,,
+E. Jean Savage,E. Jean Savage,Trinity Industries,781,Transportation,,no,yes,1943,77
+John R. Greed,John Greed,Mutual of America Life Insurance,782,Financials,,no,no,1966,54
+Christopher L. Mapes,Christopher Mapes,Lincoln Electric Holdings,783,Industrials,,no,no,,
+Dinesh S. Lathi,Dinesh Lathi,Tailored Brands,784,Retailing,,no,no,,
+Kevin J. Wheeler,Kevin Wheeler,A.O. Smith,785,Industrials,,no,no,1974,46
+Judy R. McReynolds,Judy McReynolds,ArcBest,786,Transportation,,no,yes,,
+Aman Bhutani,Aman Bhutani,GoDaddy,787,Technology,,no,no,,
+Russell A. Childs,Russell Childs,SkyWest,788,Transportation,,no,no,,
+Owen D. Thomas,Owen Thomas,Boston Properties,789,Financials,,no,no,1983,37
+Rodney J. Sailor,Rodney Sailor,Enable Midstream Partners,790,Energy,,no,no,,
+Timothy J. FitzGerald,Timothy FitzGerald,Middleby,791,Industrials,,no,no,,
+David A. Cherechinsky,David Cherechinsky,NOW,792,Energy,,no,no,,
+Peter A. Altabef,Peter Altabef,Unisys,793,Technology,,no,no,1959,61
+Sachin S. Lawande,Sachin Lawande,Visteon,794,Motor Vehicles & Parts,,no,no,,
+,,Graham Holdings,795,Business Services,,no,no,,
+Remi G. Lalonde,Remi Lalonde,Resolute Forest Products,796,Materials,,no,no,,
+Diane M. Sullivan,Diane Sullivan,Caleres,797,Retailing,,no,yes,,
+Gary D. Kain,Gary Kain,AGNC Investment,798,Financials,,no,no,1964,56
+John P. Groetelaars,John Groetelaars,Hill-Rom Holdings,799,Health Care,,no,no,,
+John R. Scannell,John Scannell,Moog,800,Aerospace & Defense,,no,no,1951,69
+Matthew Nicholls,Matthew Nicholls,Legg Mason,801,Financials,,no,no,,
+John K. Akers,John Akers,Atmos Energy,802,Energy,,no,no,,
+Thomas A. Gendron,Thomas Gendron,Woodward,803,Aerospace & Defense,,no,no,,
+Nikesh Arora,Nikesh Arora,Palo Alto Networks,804,Technology,,no,no,1968,52
+James J. Owens,James Owens,H.B. Fuller,805,Chemicals,,no,no,1980,40
+F. Thomson Leighton,F. Thomson Leighton,Akamai Technologies,806,Technology,,yes,no,1956,64
+James M. Chirico Jr.,James Chirico Jr.,Avaya Holdings,807,Technology,,no,no,,
+Bruce L. Caswell,Bruce Caswell,Maximus,808,Technology,,no,no,,
+Prahlad R. Singh,Prahlad Singh,PerkinElmer,809,Technology,,no,no,,
+Constance H. Lau,Constance Lau,Hawaiian Electric Industries,810,Energy,,no,yes,,
+Patrick J. Ottensmeyer,Patrick Ottensmeyer,Kansas City Southern,811,Transportation,,no,no,,
+Stephan B. Tanda,Stephan Tanda,AptarGroup,812,Materials,,no,no,,
+Joseph D. Russell Jr.,Joseph Russell Jr.,Public Storage,813,Financials,,no,no,1988,32
+John J. Marchioni,John Marchioni,Selective Insurance Group,814,Financials,,no,no,,
+Luca Savi,Luca Savi,ITT,815,Industrials,,no,no,,
+Tod E. Carpenter,Tod Carpenter,Donaldson,816,Industrials,,no,no,,
+Thomas J. Baltimore Jr.,Thomas Baltimore Jr.,Park Hotels & Resorts,817,Financials,,no,no,1987,33
+David W. Grzebinski,David Grzebinski,Kirby,818,Transportation,,no,no,,
+Peter R. Ingram,Peter Ingram,Hawaiian Holdings,819,Transportation,,no,no,,
+Ignacio Alvarez,Ignacio Alvarez,Popular,820,Financials,,no,no,1957,63
+Jeffrey L. Ventura,Jeffrey Ventura,Range Resources,821,Energy,,no,no,,
+Timothy J. McGrath,Timothy McGrath,PC Connection,822,Wholesalers,,no,no,,
+Robert A. DiMuccio,Robert DiMuccio,Amica Mutual Insurance,823,Financials,,no,no,,
+David M. Shaffer,David Shaffer,EnerSys,824,Industrials,,no,no,1936,84
+John W. Lindsay,John Lindsay,Helmerich & Payne,825,Energy,,no,no,,
+Mehran Assadi,Mehran Assadi,NLV Financial,826,Financials,,no,no,,
+Stephen G. Kaniewski,Stephen Kaniewski,Valmont Industries,827,Materials,,no,no,,
+John E. Heller,John Heller,PAE,828,Aerospace & Defense,,no,no,1969,51
+W. Kent Taylor,W. Kent Taylor,Texas Roadhouse,829,"Hotels, Restaurants & Leisure",,yes,no,,
+Bradley E. Hughes,Bradley Hughes,Cooper Tire & Rubber,830,Motor Vehicles & Parts,,no,no,1967,53
+Michael J. Brown,Michael Brown,Euronet Worldwide,831,Business Services,,no,no,1941,79
+Richard N. Barton,Richard Barton,Zillow Group,832,Technology,,yes,no,,
+John W. Dietrich,John Dietrich,Atlas Air Worldwide Holdings,833,Transportation,,no,no,1982,38
+Mark S. LaVigne,Mark LaVigne,Energizer Holdings,834,Household Products,,no,no,1984,36
+Michael N. Mears,Michael Mears,Magellan Midstream Partners,835,Energy,,no,no,1951,69
+Mark L. Schiller,Mark Schiller,Hain Celestial Group,836,"Food, Beverages & Tobacco",,no,no,,
+Vincent L. Sadusky,Vincent Sadusky,Univision Communications,837,Media,,no,no,,
+Mark J. Parrell,Mark Parrell,Equity Residential,838,Financials,,no,no,,
+David S. Graziosi,David Graziosi,Allison Transmission Holdings,839,Motor Vehicles & Parts,,no,no,,
+Marc C. Ganzi,Marc Ganzi,Colony Capital,840,Financials,,yes,no,,
+Thomas T. Edman,Thomas Edman,TTM Technologies,841,Technology,,no,no,,
+C. William Eccleshare,C. William Eccleshare,Clear Channel Outdoor Holdings,842,Business Services,,no,no,,
+Carlos E. Alberini,Carlos Alberini,Guess,843,Retailing,,no,no,,
+Mitchell E. Fadel,Mitchell Fadel,Rent-A-Center,844,Retailing,,no,no,1942,78
+Strauss Zelnick,Strauss Zelnick,Take-Two Interactive Software,845,Media,,no,no,1957,63
+Gerald Paul,Gerald Paul,Vishay Intertechnology,846,Technology,,no,no,,
+Christopher Cartwright,Christopher Cartwright,TransUnion,847,Business Services,,no,no,,
+Albert G. White III,Albert White III,Cooper,848,Health Care,,no,no,,
+Ronald F. Clarke,Ronald Clarke,FleetCor Technologies,849,Business Services,,no,no,,
+Gary G. Friedman,Gary Friedman,RH,850,Retailing,,no,no,,
+Cynthia J. Warner,Cynthia Warner,Renewable Energy Group,851,Energy,,no,yes,,
+Mitchell B. Lewis,Mitchell Lewis,BlueLinx Holdings,852,Wholesalers,,no,no,1998,22
+Mark A. McFarland,Mark McFarland,California Resources,853,Energy,,no,no,1978,42
+Robert Buck,Robert Buck,TopBuild,854,Engineering & Construction,,no,no,,
+James C. Foster,James Foster,Charles River Laboratories International,855,Health Care,,no,no,,
+Brian Lane,Brian Lane,Comfort Systems USA,856,Engineering & Construction,,no,no,,
+Scott G. Stephenson,Scott Stephenson,Verisk Analytics,857,Business Services,,no,no,,
+Michael J. Farrell,Michael Farrell,ResMed,858,Health Care,,no,no,1979,41
+Liam J. Kelly,Liam Kelly,Teleflex,859,Health Care,,no,no,,
+Stephen D. Westhoven,Stephen Westhoven,New Jersey Resources,860,Energy,,no,no,,
+Michael Nierenberg,Michael Nierenberg,New Residential Investment,861,Financials,,no,no,,
+Milan Galik,Milan Galik,Interactive Brokers Group,862,Financials,,no,no,,
+Daniel P. Caruso,Daniel Caruso,Zayo Group Holdings,863,Telecommunications,,yes,no,1921,99
+Andrea R. Owen,Andrea Owen,Herman Miller,864,Household Products,,no,yes,,
+Eric J. Lindberg Jr.,Eric Lindberg Jr.,Grocery Outlet Holding,865,Food & Drug Stores,,no,no,,
+Libby Wadle,Libby Wadle,J.Crew Group,866,Retailing,,no,yes,,
+Dale Francescon,Dale Francescon,Century Communities,867,Engineering & Construction,,no,no,,
+Thomas R. Reeg,Thomas Reeg,Caesars Entertainment,868,"Hotels, Restaurants & Leisure",,no,no,,
+John R. Chiminski,John Chiminski,Catalent,869,Health Care,,no,no,,
+Thomas L. Deitrich,Thomas Deitrich,Itron,870,Industrials,,no,no,,
+Robert H. Schottenstein,Robert Schottenstein,M/I Homes,871,Engineering & Construction,,no,no,,
+Edward Tilly,Edward Tilly,Cboe Global Markets,872,Financials,,no,no,,
+Eric D. Ashleman,Eric Ashleman,IDEX,873,Industrials,,no,no,,
+Roel Vestjens,Roel Vestjens,Belden,874,Industrials,,no,no,,
+Lynn M. Bamford,Lynn Bamford,Curtiss-Wright,875,Industrials,,no,yes,1957,63
+David M. Overton,David Overton,Cheesecake Factory,876,"Hotels, Restaurants & Leisure",,no,no,,
+Grant E. Sims,Grant Sims,Genesis Energy,877,Energy,,no,no,,
+George C. Zoley,George Zoley,GEO Group,878,Business Services,,yes,no,1950,70
+William A. Hendricks Jr.,William Hendricks Jr.,Patterson-UTI Energy,879,Energy,,no,no,,
+Derek J. Leathers,Derek Leathers,Werner Enterprises,880,Transportation,,no,no,,
+Vicente Reynal,Vicente Reynal,Ingersoll Rand,881,Industrials,,no,no,,
+Randy J. Nebel,Randy Nebel,Verso,882,Materials,,no,no,,
+Gregory L. Christopher,Gregory Christopher,Mueller Industries,883,Industrials,,no,no,,
+Ritch N. Wood,Ritch Wood,Nu Skin Enterprises,884,Household Products,,no,no,,
+Debra G. Perelman,Debra Perelman,Revlon,885,Household Products,,no,yes,1943,77
+Jayshree Ullal,Jayshree Ullal,Arista Networks,886,Technology,,no,yes,1961,59
+Jonathan J. Mazelsky,Jonathan Mazelsky,IDEXX Laboratories,887,Health Care,,no,no,,
+Joseph Hogan,Joseph Hogan,Align Technology,888,Health Care,,no,no,1956,64
+Udit Batra,Udit Batra,Waters,889,Technology,,no,no,,
+Kessel D. Stelling Jr.,Kessel Stelling Jr.,Synovus Financial,890,Financials,,no,no,,
+Andrew V. Masterman,Andrew Masterman,BrightView Holdings,891,Business Services,,no,no,,
+Rodney N. Rushing,Rodney Rushing,REV Group,892,Motor Vehicles & Parts,,no,no,1966,54
+J. Powell Brown,J. Powell Brown,Brown & Brown,893,Financials,,no,no,,
+Samuel J. Mitchell Jr.,Samuel Mitchell Jr.,Valvoline,894,Chemicals,,no,no,1963,57
+Carl A. Anderson,Carl Anderson,Knights of Columbus,895,Financials,,no,no,1951,69
+Timothy P. Cofer,Timothy Cofer,Central Garden & Pet,896,Household Products,,no,no,,
+Tony R. Thene,Tony Thene,Carpenter Technology,897,Materials,,no,no,,
+Jonathan W. Witter,Jonathan Witter,SLM,898,Financials,,no,no,,
+Christopher Rossi,Christopher Rossi,Kennametal,899,Industrials,,no,no,1991,29
+Jason D. Lippert,Jason Lippert,LCI Industries,900,Motor Vehicles & Parts,,no,no,,
+A. Patrick Beharelle,A. Patrick Beharelle,TrueBlue,901,Business Services,,no,no,,
+Thomas E. Jorden,Thomas Jorden,Cimarex Energy,902,Energy,,no,no,,
+Douglas S. Merritt,Douglas Merritt,Splunk,903,Technology,,no,no,,
+Doug Black,Doug Black,SiteOne Landscape Supply,904,Wholesalers,,no,no,1952,68
+Nick L. Stanage,Nick Stanage,Hexcel,905,Aerospace & Defense,,no,no,,
+Steven H. Gunby,Steven Gunby,FTI Consulting,906,Business Services,,no,no,,
+Brad Weston,Brad Weston,Party City Holdco,907,Retailing,,no,no,,
+Gary T. Huffman,Gary Huffman,Ohio National Mutual,908,Financials,,no,no,1965,55
+Andy Nemeth,Andy Nemeth,Patrick Industries,909,Materials,,no,no,1980,40
+Lip-Bu Tan,Lip-Bu Tan,Cadence Design Systems,910,Technology,,no,no,1959,61
+Brian M. Krzanich,Brian Krzanich,CDK Global,911,Technology,,no,no,1960,60
+Timothy J. Naughton,Timothy Naughton,AvalonBay Communities,912,Financials,,no,no,,
+Brent L. Yeagy,Brent Yeagy,Wabash National,913,Motor Vehicles & Parts,,no,no,,
+John G. Murray,John Murray,Service Properties Trust,914,Financials,,no,no,1960,60
+,,Maxim Integrated Products,915,Technology,,no,no,,
+John P. Barnes,John Barnes,People's United Financial,916,Financials,,no,no,1959,61
+Norman D. Schwartz,Norman Schwartz,Bio-Rad Laboratories,917,Technology,,no,no,,
+John C. Rademacher,John Rademacher,Option Care Health,918,Health Care,,no,no,,
+W. Bradley Southern,W. Bradley Southern,Louisiana-Pacific,919,Materials,,no,no,1943,77
+David T. Lougee,David Lougee,TEGNA,920,Media,,no,no,,
+Mark E. Jagiela,Mark Jagiela,Teradyne,921,Technology,,no,no,,
+Paul A. Lang,Paul Lang,Arch Resources,922,Energy,,no,no,1982,38
+Arkadiy Dobkin,Arkadiy Dobkin,EPAM Systems,923,Technology,,yes,no,,
+Richard E. Muncrief,Richard Muncrief,WPX Energy,924,Energy,,no,no,,
+David J. Stetson,David Stetson,Alpha Metallurgical Resources,925,Energy,,no,no,,
+Barry R. Port,Barry Port,Ensign Group,926,Health Care,,no,no,,
+D. Bryan Jordan,D. Bryan Jordan,First Horizon National,927,Financials,,no,no,1987,33
+Blake W. Krueger,Blake Krueger,Wolverine World Wide,928,Apparel,,no,no,,
+Robert A. Katz,Robert Katz,Vail Resorts,929,"Hotels, Restaurants & Leisure",,no,no,,
+Jeffrey W. Benck,Jeffrey Benck,Benchmark Electronics,930,Technology,,no,no,,
+Jeffrey D. Lorenger,Jeffrey Lorenger,HNI,931,Household Products,,no,no,,
+,,F5 Networks,932,Technology,,no,no,,
+Jay C. Horgen,Jay Horgen,Affiliated Managers Group,933,Financials,,no,no,,
+Sean R. Trauschke,Sean Trauschke,OGE Energy,934,Energy,,no,no,,
+George C. Freeman III,George Freeman III,Universal,935,"Food, Beverages & Tobacco",,no,no,,
+"Steven G, Bradshaw","Steven G, Bradshaw",BOK Financial,936,Financials,,no,no,,
+Kevin M. Phillips,Kevin Phillips,ManTech International,937,Technology,,no,no,1973,47
+Anne P. Noonan,Anne Noonan,Summit Materials,938,Materials,,yes,yes,1950,70
+Susan R. Salka,Susan Salka,AMN Healthcare Services,939,Health Care,,no,yes,,
+Aaron Cooper,Aaron Cooper,Groupon,940,Technology,,no,no,1958,62
+Barry M. Gosin,Barry Gosin,Newmark Group,941,Financials,,no,no,,
+Kosta N. Kartsotis,Kosta Kartsotis,Fossil Group,942,Apparel,,no,no,,
+Neil D. Brinker,Neil Brinker,Modine Manufacturing,943,Motor Vehicles & Parts,,no,no,1969,51
+Ronald J. Kramer,Ronald Kramer,Griffon,944,Materials,,no,no,1958,62
+Robert LeFort,Robert LeFort,Cypress Semiconductor,945,Technology,,no,no,,
+Aaron Jagdfeld,Aaron Jagdfeld,Generac Holdings,946,Industrials,,no,no,,
+Matthew J. Cox,Matthew Cox,Matson,947,Transportation,,no,no,,
+Mimi Eckel Vaughn,Mimi Eckel Vaughn,Genesco,948,Retailing,,no,yes,,
+Sundaram Nagarajan,Sundaram Nagarajan,Nordson,949,Industrials,,no,no,,
+Thomas E. Gottwald,Thomas Gottwald,NewMarket,950,Chemicals,,no,no,1953,67
+Douglas R. Waggoner,Douglas Waggoner,Echo Global Logistics,951,Transportation,,no,no,,
+Todd A. Adams,Todd Adams,Rexnord,952,Industrials,,no,no,1960,60
+,,Incyte,953,Health Care,,no,no,,
+Ken Xie,Ken Xie,Fortinet,954,Technology,,yes,no,,
+Ruben D. Mendoza,Ruben Mendoza,Foundation Building Materials,955,Wholesalers,,no,no,,
+John M. Holmes,John Holmes,AAR,956,Aerospace & Defense,,no,no,,
+Jason Rabin,Jason Rabin,Centric Brands,957,Apparel,,no,no,,
+Rod R. Little,Rod Little,Edgewell Personal Care,958,Household Products,,no,no,1956,64
+Michael G. Kerr,Michael Kerr,Federated Mutual Insurance,959,Financials,,no,no,1934,86
+Tamara L. Lundgren,Tamara Lundgren,Schnitzer Steel Industries,960,Materials,,no,yes,,
+Maria M. Pope,Maria Pope,Portland General Electric,961,Energy,,no,yes,,
+Hilton H. Howell Jr.,Hilton Howell Jr.,Gray Television,962,Media,,no,no,,
+Howard W. Lutnick,Howard Lutnick,BGC Partners,963,Financials,,no,no,1961,59
+Michael T. Dugan,Michael Dugan,EchoStar,964,Technology,,no,no,1957,63
+Allan P. Merrill,Allan Merrill,Beazer Homes USA,965,Engineering & Construction,,no,no,,
+Keith G. Myers,Keith Myers,LHC Group,966,Health Care,,yes,no,1986,34
+Brett T. Ponton,Brett Ponton,ServiceMaster Global Holdings,967,Business Services,,no,no,,
+Frank H. Laukien,Frank Laukien,Bruker,968,Technology,,no,no,,
+Douglas E. Brooks,Douglas Brooks,Oasis Petroleum,969,Energy,,no,no,1965,55
+Charles M. Nifong Jr.,Charles Nifong Jr.,CrossAmerica Partners,970,Energy,,no,no,1959,61
+Richard Swartz Jr.,Richard Swartz Jr.,MYR Group,971,Engineering & Construction,,no,no,,
+Richard A. Baldridge,Richard Baldridge,Viasat,972,Technology,,yes,no,,
+Kenneth A. Martindale,Kenneth Martindale,GNC Holdings,973,Food & Drug Stores,,no,no,,
+Dan Dinges,Dan Dinges,Cabot Oil & Gas,974,Energy,,no,no,,
+Stephen H. Kramer,Stephen Kramer,Bright Horizons Family Solutions,975,Business Services,,no,no,1979,41
+Christopher T. Metz,Christopher Metz,Vista Outdoor,976,Household Products,,no,no,,
+Laurans A. Mendelson,Laurans Mendelson,HEICO,977,Aerospace & Defense,,no,no,,
+Geoffrey A. Ballotti,Geoffrey Ballotti,Wyndham Hotels & Resorts,978,"Hotels, Restaurants & Leisure",,no,no,,
+David T. Provost,David Provost,TCF Financial,979,Financials,,no,no,,
+Glenn J. Williams,Glenn Williams,Primerica,980,Financials,,no,no,,
+Phillip A. Gobe,Phillip Gobe,ProPetro Holding,981,Energy,,no,no,,
+Roderick A. Larson,Roderick Larson,Oceaneering International,982,Energy,,no,no,,
+Thomas Taylor Jr.,Thomas Taylor Jr.,Floor & Decor Holdings,983,Retailing,,no,no,1981,39
+A. Jayson Adair,A. Jayson Adair,Copart,984,Retailing,,no,no,1970,50
+Molly Langenstein,Molly Langenstein,Chico's FAS,985,Retailing,,no,yes,,
+Michael P. Huseby,Michael Huseby,Barnes & Noble Education,986,Retailing,,no,no,,
+Daniel L. Jablonsky,Daniel Jablonsky,Maxar Technologies,987,Aerospace & Defense,,no,no,,
+Ralph L. Schlosstein,Ralph Schlosstein,Evercore,988,Financials,,no,no,1961,59
+David Powers,David Powers,Deckers Outdoor,989,Apparel,,no,no,1998,22
+Timothy G. Baxter,Timothy Baxter,Express,990,Retailing,,no,no,,
+Ara K. Hovnanian,Ara Hovnanian,Hovnanian Enterprises,991,Engineering & Construction,,no,no,,
+John L. Plueger,John Plueger,Air Lease,992,Business Services,,no,no,,
+Gary W. Rollins,Gary Rollins,Rollins,993,Business Services,,no,no,1944,76
+Jeffrey A. Stoops,Jeffrey Stoops,SBA Communications,994,Financials,,no,no,,
+Barry C. McCarthy,Barry McCarthy,Deluxe,995,Media,,no,no,1990,30
+Jay Bray,Jay Bray,Mr. Cooper Group,996,Financials,,no,no,,
+Lawrence H. Silber,Lawrence Silber,Herc Holdings,997,Business Services,,no,no,,
+Thomas M. Herzog,Thomas Herzog,Healthpeak Properties,998,Financials,,no,no,1942,78
+Marcus G. Michael,Marcus Michael,SPX FLOW,999,Industrials,,no,no,,
+Christopher A. Wright,Christopher Wright,Liberty Oilfield Services,1000,Energy,,yes,no,,
