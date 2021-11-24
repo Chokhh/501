@@ -22,7 +22,9 @@ norm_df=cbind(df$sector,norm_df)
 names(norm_df)[1]<-'sector'
 
 #write.csv(norm_df, "norm_record.csv")
-
+norm_df <- read.csv("/Users/balogZ/Desktop/record/norm_record.csv")
+norm_df<-norm_df[, -1]
+norm_df$sector<-as.factor(norm_df$sector)
 ## split into train/test data
 set.seed(2021)
 
@@ -32,18 +34,15 @@ testset<-norm_df[index==2,]
 
 ## remove the label from both datasets
 test_label <- testset$sector
-testset_N <-  testset[ , -which(names(testset) %in% c("sector"))]
+testset<-  testset[ , -which(names(testset) %in% c("sector"))]
 
 train_label <- trainset$sector
 trainset_N <-  trainset[ , -which(names(trainset) %in% c("sector"))]
 
-table(trainset$sector)
-table(testset$sector)
 
 
 # Naive Bayes
-NB <- naive_bayes(trainset, train_label, laplace = 1) # using laplace smoothing
-
+NB <- naive_bayes(trainset_N, train_label, laplace = 1) # using laplace smoothing
 plot(NB)
 
 
